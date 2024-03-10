@@ -2,6 +2,7 @@ from joblib import load
 import pandas as pd
 import numpy as np
 import sklearn
+import os
 
 hamburger='''   
 
@@ -84,11 +85,13 @@ while True:
             print(f"{i+1}. {model_list[i]}")
         print("====================================================================================")
         model_num=int(input("모델 번호를 입력하세요. : "))
+        os.system('cls')
         if not model_num:
             break
         print("====================================================================================") # 모델 설명
         print(model_text[model_num-1])
         yesno=int(input("해당 모델을 사용하시겠습니까? (예:1/아니오:0) :"))
+        os.system('cls')
         if yesno :
             break
         if not yesno:
@@ -151,6 +154,7 @@ while True:
     # 4. 단백질 입력
     protein=int(input("얼마나 단백질이 땡기시나요?(1~10) : "))
     protein=protein*38.56/10
+    os.system('cls')
     print("====================================================================================")
     data=pd.DataFrame([[salt, sugar, fat, protein]], columns=["sodium", "sugar", "total_fat", "protein"])
 
@@ -169,6 +173,7 @@ while True:
         sort_num = (int(input("1. 짭짤함 \n2. 달달함 \n3. 기름짐 \n4. 단백질 : ")))
         if not sort_num:
             break
+        os.system('cls')
         res=res.sort_values(by=["sodium","sugar","total_fat","protein"][sort_num-1], ascending=False).reset_index(drop=True)
         print("====================================================================================") 
         print(res[["restaurant","item","calories"]])
