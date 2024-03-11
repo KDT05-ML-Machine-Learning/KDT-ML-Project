@@ -132,7 +132,8 @@
   
 ## (3) 모델 학습 및 모델 평가  
   
-### RandomForest
+### RandomForest  
+  
 - train_score : 0.98 / test_score : 0.95 -> 과대적합이라고 판단
   -  과대적합을 방지하기 위해 튜닝 진행
     - n_estimators, max_depth, min_samples_split, max_features 파라미터 튜닝
@@ -140,28 +141,27 @@
     - GridSearchCV를 통해 최적의 모델 산출
 ** 과대 적합 해결! ** 
 - 튜닝 후 : train_score : 0.96 / test_score : 0.95
+  
 <aside>
 💡 최적의 모델  
   
-![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/00edaf5c-124d-4241-99e0-dd3c784497f0)  
-    
-                                       [모델 설명도]  
-                                  R2 : 0.9476294323874069  
-                                          [에러]  
-                                  MAE : 57.07360880221679  
-                                  MSE : 6874.033423395934  
-                                  RMSE : 82.9097908777723  
+  ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/00edaf5c-124d-4241-99e0-dd3c784497f0)  
+      
+  <imgwidth="300" height="200" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/04d8f60f-769c-43d4-83a7-f7635ce3922b">
+
 </aside>
   
-### Voting
+### Voting  
+  
 - 각 조원들과 내가 만들었던 최적의 모델을 estimators 파라미터 안에 넣어 모델 생성 및 학습
 - train_score : 0.91 / test_score : 0.91 -> 최적적합
+  
 <aside>
 💡 최적의 모델  
 
-![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/b8271ef0-88d3-4e0d-b8e2-432e449c059f)  
-            
-<img  width="300" height="200" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/39c226e7-6d58-4c61-8c73-1bd63b4027d4">
+  ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/b8271ef0-88d3-4e0d-b8e2-432e449c059f)  
+              
+  <img  width="300" height="200" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/39c226e7-6d58-4c61-8c73-1bd63b4027d4">
 
 </aside>
   
