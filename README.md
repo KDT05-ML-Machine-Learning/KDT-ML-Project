@@ -161,12 +161,8 @@
 
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/b8271ef0-88d3-4e0d-b8e2-432e449c059f)  
             
-                                       [모델 설명도]  
-                                  R2 : 0.9120334802958219  
-                                         [에러]  
-                                  MAE : 71.659755748153  
-                                  MSE : 8129.04214048125  
-                                  RMSE : 90.16120085980027  
+<img width="167" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/39c226e7-6d58-4c61-8c73-1bd63b4027d4">
+
 </aside>
   
 ## (4) 새로운 데이터로 칼로리 예측  
