@@ -132,7 +132,7 @@
   
 ## (3) 모델 학습 및 모델 평가  
   
-### RandomForest  
+### __[RandomForest model]__  
   
 - train_score : 0.98 / test_score : 0.95 -> 과대적합이라고 판단
   -  과대적합을 방지하기 위해 튜닝 진행
@@ -151,7 +151,7 @@
 
 </aside>
   
-### Voting  
+### __[Voting model]__  
   
 - 각 조원들과 내가 만들었던 최적의 모델을 estimators 파라미터 안에 넣어 모델 생성 및 학습
 - train_score : 0.91 / test_score : 0.91 -> 최적적합
