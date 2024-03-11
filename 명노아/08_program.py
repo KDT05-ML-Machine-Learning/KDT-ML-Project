@@ -3,10 +3,41 @@ import pandas as pd
 import numpy as np
 import sklearn
 import os
+from sklearn.preprocessing import StandardScaler
+from IPython.display import display
+
+
+# Scaler fitting
+df=pd.read_csv('./Hamburger.csv')
+scaler=StandardScaler()
+scaler.fit(df[["sodium", "sugar", "total_fat", "protein"]])
+
+ending='''
+                       . . .                      
+                ..:iiiiiiiiiiiii:..               
+              .iii:::::::::::::::iiri:            
+            .ir:::::::::::::::::::::iir.          
+           :ii::::::::::::::::::.::::::i:         
+          ii:::.. ...::::::::::.. ..::::i:        
+         i:::::..1XJ..::::::::..sgP:.::::i.       
+        i::.::..BBBBB.::::::::.RBBBB..:.::i       
+      .r7r::.:.iBBBBB.::::::.:.bBBBd .:iirr.      
+    :7vv7777r...rPEu:..::::::::.ir: :r7r77Lv.     
+   .vii7rrrrrr.......:::::::::::.  Lii:iirr77.    
+   :7:irrri:KBs :::.:::::::::.:.: 2Qg.7Yiirr7:    
+   :rii7rii:bBD  :::::::.::::::.. XBBBBBirr77:    
+    vrirrvBBBQBS: ....::.:::... :QBB1XSiirvv7     
+     ii7775bJ:2BBBv.   . ..  .iZBBX..:irr7v:      
+        ii:... .UBBBBg5vvv1XQBBQE: ...::iii       
+         :::::.. .:sEBBBBBQBBd7. ..:::...i.       
+          ii:::::...  ..... . ....::::::ii        
+           iii::::::.......:.:.::::::::ii.        
+            .ii:::::::.:::::::::::::iir:          
+              .iii:i:i:::::::i:i:iir:.            
+                ..::i:iiiiiii:::...               
+ '''
 
 hamburger='''   
-
-
               << 햄버거 먹고 싶니?? >>      
     ...    ...   ...    ...    ...   ...    ...   
 .                                                 
@@ -34,41 +65,96 @@ hamburger='''
     ...    ..    ...    ...    ..    ...    ...   
 '''
 
-model_list=["BayesianRidge","KernelRidge","Lasso","LassoCV","LassoLars","Ridge","RidgeCV"]
-model_text=['''BayesianRidge:
+model_list=["BayesianRidge","KernelRidge","Lasso","LassoCV","LassoLars","Ridge","RidgeCV","KNeighborsRegressor","LinearRegression","Boosting","Decision_tree","RandomForest","Voting"]
+model_text=['''**BayesianRidge:**
 
-설명: BayesianRidge는 베이지안 회귀 모델로, 가중치에 대한 사전 분포를 정의하고 베이지안 추론을 사용하여 가중치를 조절하는 회귀 모델입니다. 오차 항과 가중치에 대한 확률 분포를 고려하여 모델링됩니다.
-하이퍼파라미터: alpha_1, alpha_2, lambda_1, lambda_2, alpha_init, lambda_init 등.''',
+**설명:** BayesianRidge는 베이지안 회귀 모델로, 가중치에 대한 사전 분포를 정의하고 베이지안 추론을 사용하여 가중치를 조절하는 회귀 모델입니다. 오차 항과 가중치에 대한 확률 분포를 고려하여 모델링됩니다.
+
+**하이퍼파라미터:** alpha_1, alpha_2, lambda_1, lambda_2, alpha_init, lambda_init 등.
+''',
 '''
-KernelRidge:
+**KernelRidge:**
 
-설명: KernelRidge는 커널 트릭을 사용하는 Ridge 회귀의 확장입니다. 비선형 데이터를 모델링할 수 있도록 다양한 커널 함수를 사용할 수 있습니다.
-하이퍼파라미터: alpha, kernel, gamma 등.''',
+**설명:** KernelRidge는 커널 트릭을 사용하는 Ridge 회귀의 확장입니다. 비선형 데이터를 모델링할 수 있도록 다양한 커널 함수를 사용할 수 있습니다.
+
+**하이퍼파라미터:** alpha, kernel, gamma 등.''',
 '''
-Lasso:
+**Lasso:**
 
-설명: Lasso는 L1 규제를 사용하는 선형 회귀 모델로, 특정 특징들의 가중치를 0으로 만들어 특징 선택에 활용됩니다.
-하이퍼파라미터: alpha (규제 강도).''',
+**설명:** Lasso는 L1 규제를 사용하는 선형 회귀 모델로, 특정 특징들의 가중치를 0으로 만들어 특징 선택에 활용됩니다.
+
+**하이퍼파라미터:** alpha (규제 강도).''',
 '''
-LassoCV:
+**LassoCV:**
 
-설명: LassoCV는 교차 검증을 사용하여 최적의 alpha 값을 자동으로 찾아주는 Lasso 모델입니다.
-하이퍼파라미터: eps, n_alphas, cv 등.''',
+**설명:** LassoCV는 교차 검증을 사용하여 최적의 alpha 값을 자동으로 찾아주는 Lasso 모델입니다.
+
+**하이퍼파라미터:** eps, n_alphas, cv 등''',
 '''
-LassoLars:
+**LassoLars:**
 
-설명: LassoLars는 Least Angle Regression (LARS) 알고리즘을 사용하는 Lasso 모델로, 계수의 추정치를 조절하면서 변수를 선택할 수 있습니다.
-하이퍼파라미터: alpha (규제 강도).''',
+**설명:** LassoLars는 Least Angle Regression (LARS) 알고리즘을 사용하는 Lasso 모델로, 계수의 추정치를 조절하면서 변수를 선택할 수 있습니다.
+
+**하이퍼파라미터:** alpha (규제 강도).''',
 '''
-Ridge:
+**Ridge:**
 
-설명: Ridge는 L2 규제를 사용하여 선형 회귀 모델을 구축합니다. Lasso와 달리 계수를 0에 가깝게 만들지 않고, 작은 값을 유지합니다.
-하이퍼파라미터: alpha (규제 강도).''',
+**설명:** Ridge는 L2 규제를 사용하여 선형 회귀 모델을 구축합니다. Lasso와 달리 계수를 0에 가깝게 만들지 않고, 작은 값을 유지합니다.
+
+**하이퍼파라미터:** alpha (규제 강도)..''',
 '''
-RidgeCV:
+**RidgeCV:**
 
-설명: RidgeCV는 교차 검증을 사용하여 최적의 alpha 값을 자동으로 찾아주는 Ridge 모델입니다.
-하이퍼파라미터: store_cv_values, alphas 등.''']
+**설명:** RidgeCV는 교차 검증을 사용하여 최적의 alpha 값을 자동으로 찾아주는 Ridge 모델입니다.
+
+**하이퍼파라미터:** store_cv_values, alphas 등.''',
+'''
+**KNR (K-neighbors regression):**
+
+**설명:** KNR은 K-최근접 이웃 알고리즘을 사용한 회귀 모델로, 주어진 데이터 포인트에 가장 가까운 K개의 이웃의 평균값이나 가중 평균값을 사용하여 예측을 수행합니다.
+
+**하이퍼파라미터:** n_neighbors, weights, algorithm 등.
+''',
+'''
+**LR (Linear Regression):**
+
+**설명:** Linear Regression은 선형 모델로, 입력 특징과 가중치의 선형 조합으로 예측을 수행하는 회귀 알고리즘입니다. 가장 간단하면서도 효과적인 회귀 방법 중 하나입니다.
+
+**하이퍼파라미터:** 없음 (주로 최소제곱법을 사용하며, 규제를 위한 하이퍼파라미터가 없을 수 있음).
+''',
+'''
+**Boosting:**
+
+**설명:** Boosting은 약한 학습자(weak learner)들을 결합하여 강력한 앙상블 모델을 만드는 알고리즘입니다. 이전 학습자의 오차에 가중치를 부여하면서 순차적으로 학습을 진행하여 모델의 성능을 향상시킵니다.
+
+**하이퍼파라미터:** n_estimators, learning_rate, max_depth 등.
+''',
+'''
+**Decision_tree:**
+
+**설명:** Decision Tree는 데이터를 분할하고 각 분할에서 예측을 수행하는 트리 구조의 모델입니다. 각 분할은 특정 조건을 기반으로 결정되며, 데이터를 계층적으로 분류하여 의사 결정을 수행합니다.
+
+**하이퍼파라미터:** max_depth, min_samples_split, min_samples_leaf 등.
+''',
+'''
+**Random Forest:**
+
+**설명:** Random Forest는 여러 개의 의사 결정 트리를 구성하고 각 트리의 예측을 결합하여 더 강력하고 안정적인 모델을 형성하는 앙상블 학습 방법입니다. 각 트리는 부트스트랩 샘플링을 통해 데이터의 일부를 사용하며, 무작위로 선택된 특징들을 사용하여 높은 다양성을 유지합니다.
+
+**하이퍼파라미터:** n_estimators, max_depth, min_samples_split 등.
+
+''',
+'''
+**Voting:**
+
+**설명:** Voting은 여러 개의 다른 머신러닝 모델을 조합하여 높은 성능의 앙상블 모델을 형성하는 앙상블 학습 방법 중 하나입니다. 여러 모델의 예측을 조합함으로써 개별 모델의 약점을 상쇄하고, 전체적인 성능을 향상시킬 수 있습니다. Voting은 주로 분류(Classification) 및 회귀(Regression) 문제에 사용됩니다.
+
+**하드 보팅(Hard Voting):** 다수결 원칙을 적용하여 각 모델의 예측 중 가장 많이 선택된 클래스나 값으로 최종 예측을 수행합니다.
+
+**소프트 보팅(Soft Voting):** 각 모델의 예측에 가중치를 부여하여 조합하며, 가중 평균을 계산하여 최종 예측을 수행합니다. 이는 모델의 예측에 대한 확률이나 신뢰도 정보를 활용하는 방식입니다.
+
+**하이퍼파라미터:** Voting은 다양한 모델을 조합하기 때문에 각 모델의 하이퍼파라미터를 설정해야 하며, 가중치를 조절하는 등의 하이퍼파라미터도 있을 수 있습니다.
+''']
 
 for i in hamburger:
     if i =="\n":
@@ -156,7 +242,10 @@ while True:
     protein=protein*38.56/10
     os.system('cls')
     print("====================================================================================")
-    data=pd.DataFrame([[salt, sugar, fat, protein]], columns=["sodium", "sugar", "total_fat", "protein"])
+    if model_num <10 : 
+        data=pd.DataFrame([[salt, sugar, fat, protein]], columns=["sodium", "sugar", "total_fat", "protein"])
+    elif model_num >=10 :
+        data=pd.DataFrame(scaler.transform([[salt, sugar, fat, protein]]), columns=["sodium", "sugar", "total_fat", "protein"])
 
 
     cal=model.predict(data)
@@ -167,17 +256,29 @@ while True:
 
     print("====================================================================================") # 정렬파트 
     # 정렬방식 선택
-    while True:
-        print("무엇을 기준으로 정렬하시겠습니까? ( 0입력 시 종료 )")
-        
-        sort_num = (int(input("1. 짭짤함 \n2. 달달함 \n3. 기름짐 \n4. 단백질 : ")))
-        if not sort_num:
-            break
-        os.system('cls')
-        res=res.sort_values(by=["sodium","sugar","total_fat","protein"][sort_num-1], ascending=False).reset_index(drop=True)
-        print("====================================================================================") 
-        print(res[["restaurant","item","calories"]])
-        print("====================================================================================") 
 
-    #statics=df[["sodium","sugar","total_fat","protein"]].describe()
-    #print(statics)
+    print("무엇을 기준으로 정렬하시겠습니까? ( 0입력 시 종료 )")
+    
+    sort_num = (int(input("1. 짭짤함 \n2. 달달함 \n3. 기름짐 \n4. 단백질 : ")))
+    if not sort_num:
+        break
+    os.system('cls')
+    res=res.sort_values(by=["sodium","sugar","total_fat","protein"][sort_num-1], ascending=False).reset_index(drop=True)
+    print(f"{'===='*40}") 
+    print(f"{'Restaurant':^15} {'Item':^100} {'Calories':^10}")
+    for index, row in res[["restaurant","item","calories"]].iterrows():
+        restaurant = row['restaurant'].strip()
+        item = row['item'].strip()
+        calories = row['calories']
+        
+        print(f"{restaurant:^15} {item:^100} {calories:10}")
+    print(f"{'===='*40}\n\n         <<< 맛있게 드세요! >>> \n\n\n")  
+    for i in ending:
+        if i =="\n":
+            print()
+        else :print(i, end="",sep="")
+    
+    if not int(input("한번 더 할까요?(네:1,아니오:0) : ")) : 
+        # 프로그램 종료
+        os.sys.exit(1)
+    os.system('cls')
