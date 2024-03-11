@@ -334,5 +334,4 @@
   - 이상치 제거를 안해도 MinMaxScaler로도 어느정도 이상치 정리가 된다.  
 
 </details>
-dsjfsjdfds
 <hr/>
