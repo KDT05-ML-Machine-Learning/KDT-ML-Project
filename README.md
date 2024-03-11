@@ -102,10 +102,10 @@
 ## (1) 모델 선정 이유
   
 - 과대적합때문에 늘 고생했던 경험이 있어서 과대적합을 완화해주는데 알맞은 RandomForest 모델을 선정하였다.
-- 이 프로젝트가 같은 데이터로 다른 모델의 성능을 비교 파악 하는 것이기 때문에 보팅의 알고리즘과 매우 유사하다고 느꼈고, 우리가 비교해서 가장 높은 성능을 가진 모델의 결과와 보팅모델의 결과를 비교해보면 재밌겠다는 생각이 들어 선정하였다.
+- 우리 프로젝트가 같은 데이터로 다른 모델의 성능을 비교 파악 하는 것이기 때문에 보팅의 알고리즘과 매우 유사하다고 느꼈고, 우리가 비교해서 가장 높은 성능을 가진 모델의 결과와 보팅모델의 결과를 비교해보면 재밌겠다는 생각이 들어 선정하였다.
   
 ## (2) 데이터 파악 및 전처리
-
+  
 - target : caloriest
 - feature : restrant, item, sodium, sugar, total_fat, portein
 - restrant는 순서가 없는 범주형 데이터 -> OneHotEncoding 실시
@@ -127,10 +127,10 @@
   - 세 방법중에 MAE와 RMSE가 제일 낮은 Scaler 선택
 - train_test_split 메서드의 최적의 random_state 값 찾기
 - RandomForest 메서드의 최적의 random_state 값 찾기
-
+  
   
 ## (3) 모델 학습 및 모델 평가  
-
+  
 ### RandomForest
 - train_score : 0.98 / test_score : 0.95 -> 과대적합이라고 판단
   -  과대적합을 방지하기 위해 튜닝 진행
@@ -143,15 +143,15 @@
 💡 최적의 모델  
   
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/00edaf5c-124d-4241-99e0-dd3c784497f0)  
-
-[모델 설명도]
-R2 : 0.9476294323874069
-[에러]
-MAE : 57.07360880221679
-MSE : 6874.033423395934
-RMSE : 82.9097908777723
+  
+[모델 설명도]  
+R2 : 0.9476294323874069  
+[에러]  
+MAE : 57.07360880221679  
+MSE : 6874.033423395934  
+RMSE : 82.9097908777723  
 </aside>
-
+  
 ### Voting
 - 각 조원들과 내가 만들었던 최적의 모델을 estimators 파라미터 안에 넣어 모델 생성 및 학습
 - train_score : 0.91 / test_score : 0.91 -> 최적적합
@@ -160,32 +160,32 @@ RMSE : 82.9097908777723
 
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/b8271ef0-88d3-4e0d-b8e2-432e449c059f)  
   
-[모델 설명도]
-R2 : 0.9120334802958219
-[에러]
-MAE : 71.659755748153
-MSE : 8129.04214048125
-RMSE : 90.16120085980027
+[모델 설명도]  
+R2 : 0.9120334802958219  
+[에러]  
+MAE : 71.659755748153  
+MSE : 8129.04214048125  
+RMSE : 90.16120085980027  
 </aside>
-
-## (4) 새로운 데이터로 칼로리 예측
-- 맘스터치 화이트갈릭싸이버거의 나트륨, 당류, 포화지방, 단백질 데이터를 model에 넣어 predict하여 값 예측
+  
+## (4) 새로운 데이터로 칼로리 예측  
+- 맘스터치 화이트갈릭싸이버거의 나트륨, 당류, 포화지방, 단백질 데이터를 model에 넣어 predict하여 값 예측  
 - 각 모델 별로 예측값과 오차 도출
   ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/5010f150-41a6-4900-82c9-1f8f44c37450)
-
-## (5) 결과
+  
+## (5) 결과  
   
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/6512e391-14f7-476c-affc-19b7ffad4cf1)
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/d43885dc-5429-4488-b2e4-991833ecc75d)
-- boost model이 score가 가장 높고, 최적적합에다, 새로운 데이터를 넣었을때도 MAE와 RMSE값이 낮다.
-
-## (6) 활용
-- 칼로리 예측을 기반한 햄버거 추천 프로그램
+- boost model이 score가 가장 높고, 최적적합에다, 새로운 데이터를 넣었을때도 MAE와 RMSE값이 낮다.  
   
-## (7) 피드백
+## (6) 활용
+- 칼로리 예측을 기반한 햄버거 추천 프로그램  
+  
+## (7) 피드백  
   
 - 이상치가 많은 feature data에서 MinMaxScaler를 잘 사용하였다.
-  - 이상치 제거를 안해도 MinMaxScaler로도 어느정도 이상치 정리가 된다.
+  - 이상치 제거를 안해도 MinMaxScaler로도 어느정도 이상치 정리가 된다.  
 
 </details>
 <hr/>
