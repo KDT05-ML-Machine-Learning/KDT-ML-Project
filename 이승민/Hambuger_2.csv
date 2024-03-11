@@ -1,0 +1,973 @@
+,restaurant,item,calories,sodium,sugar,total_fat,protein
+0,McDonalds,Artisan Grilled Chicken Sandwich,380.0,1110.0,11.0,7.0,37.0
+1,McDonalds,Single Bacon Smokehouse Burger,840.0,1580.0,18.0,45.0,46.0
+2,McDonalds,Double Bacon Smokehouse Burger,1130.0,1920.0,18.0,67.0,70.0
+3,McDonalds,Grilled Bacon Smokehouse Chicken Sandwich,750.0,1940.0,18.0,31.0,55.0
+4,McDonalds,Crispy Bacon Smokehouse Chicken Sandwich,920.0,1980.0,18.0,45.0,46.0
+5,McDonalds,Big Mac,540.0,950.0,9.0,28.0,25.0
+6,McDonalds,Cheeseburger,300.0,680.0,7.0,12.0,15.0
+7,McDonalds,Classic Chicken Sandwich,510.0,1040.0,6.0,24.0,25.0
+8,McDonalds,Double Cheeseburger,430.0,1040.0,7.0,21.0,25.0
+9,McDonalds,Double Quarter PounderÂ® with Cheese,770.0,1290.0,10.0,45.0,51.0
+10,McDonalds,Filet-O-FishÂ®,380.0,640.0,5.0,18.0,15.0
+11,McDonalds,Garlic White Cheddar Burger,620.0,790.0,11.0,34.0,32.0
+12,McDonalds,Grilled Garlic White Cheddar Chicken Sandwich,530.0,1150.0,11.0,20.0,42.0
+13,McDonalds,Crispy Garlic White Cheddar Chicken Sandwich,700.0,1190.0,11.0,34.0,33.0
+14,McDonalds,Hamburger,250.0,480.0,6.0,8.0,13.0
+15,McDonalds,Lobster Roll,290.0,630.0,3.0,5.0,24.0
+16,McDonalds,Maple Bacon Dijon 1/4 lb Burger,640.0,1260.0,10.0,36.0,37.0
+17,McDonalds,Grilled Maple Bacon Dijon Chicken Sandwich,580.0,1890.0,14.0,21.0,48.0
+18,McDonalds,Crispy Maple Bacon Dijon Chicken Sandwich,740.0,1780.0,14.0,35.0,39.0
+19,McDonalds,McChicken,350.0,600.0,5.0,15.0,15.0
+20,McDonalds,McDouble,380.0,840.0,7.0,18.0,23.0
+21,McDonalds,McRib,480.0,870.0,12.0,22.0,25.0
+22,McDonalds,Pico Guacamole 1/4 lb Burger,580.0,920.0,7.0,33.0,29.0
+23,McDonalds,Grilled Pico Guacamole Chicken Sandwich,520.0,1540.0,12.0,18.0,40.0
+24,McDonalds,Crispy Pico Guacamole Chicken Sandwich,680.0,1430.0,12.0,32.0,31.0
+25,McDonalds,Premium Buttermilk Crispy Chicken Deluxe Sandwich,570.0,1050.0,11.0,23.0,28.0
+26,McDonalds,Premium Crispy Chicken Deluxe Sandwich,530.0,1000.0,13.0,22.0,25.0
+27,McDonalds,Quarter PounderÂ® with Cheese,530.0,1090.0,10.0,27.0,31.0
+28,McDonalds,Signature Sriracha Burger,670.0,1010.0,13.0,35.0,32.0
+29,McDonalds,Grilled Signature Sriracha Chicken Sandwich,560.0,1550.0,14.0,20.0,41.0
+30,McDonalds,Crispy Signature Sriracha Chicken Sandwich,730.0,1430.0,13.0,33.0,32.0
+31,McDonalds,Sweet BBQ Bacon 1/4 lb Burger,690.0,1310.0,14.0,37.0,38.0
+32,McDonalds,Grilled Sweet BBQ Bacon Chicken Sandwich,630.0,1930.0,18.0,22.0,48.0
+33,McDonalds,Crispy Sweet BBQ Bacon Chicken Sandwich,800.0,1820.0,18.0,36.0,39.0
+34,McDonalds,3 piece Buttermilk Crispy Chicken Tenders,370.0,910.0,0.0,21.0,28.0
+35,McDonalds,4 piece Buttermilk Crispy Chicken Tenders,480.0,1290.0,1.0,28.0,38.0
+36,McDonalds,6 piece Buttermilk Crispy Chicken Tenders,760.0,1890.0,1.0,44.0,58.0
+37,McDonalds,10 piece Buttermilk Crispy Chicken Tenders,1210.0,3230.0,4.0,70.0,94.0
+38,McDonalds,12 piece Buttermilk Crispy Chicken Tenders,1510.0,3770.0,2.0,88.0,115.0
+39,McDonalds,20 piece Buttermilk Crispy Chicken Tenders,2430.0,6080.0,3.0,141.0,186.0
+40,McDonalds,4 Piece Chicken McNuggets,180.0,340.0,0.0,11.0,10.0
+41,McDonalds,6 Piece Chicken McNuggets,270.0,510.0,0.0,16.0,15.0
+42,McDonalds,10 Piece Chicken McNuggets,440.0,840.0,0.0,27.0,24.0
+43,McDonalds,20 Piece Chicken McNuggets,890.0,1680.0,0.0,53.0,49.0
+44,McDonalds,40 piece Chicken McNuggets,1770.0,3370.0,1.0,107.0,98.0
+45,McDonalds,4 piece Sweet N' Spicy Honey BBQ Glazed Tenders,640.0,1780.0,35.0,27.0,39.0
+46,McDonalds,6 piece Sweet N' Spicy Honey BBQ Glazed Tenders,960.0,2670.0,52.0,40.0,58.0
+47,McDonalds,10 piece Sweet N' Spicy Honey BBQ Glazed Tenders,1600.0,4450.0,87.0,66.0,97.0
+48,McDonalds,Premium Asian Salad w/o Chicken,140.0,20.0,7.0,7.0,7.0
+49,McDonalds,Premium Asian Salad w/ Grilled Chicken,270.0,740.0,10.0,9.0,31.0
+50,McDonalds,Premium Asian Salad w/ Crispy Chicken,490.0,1120.0,4.0,28.0,33.0
+51,McDonalds,Premium Bacon Ranch Salad w/o Chicken,190.0,660.0,3.0,12.0,14.0
+52,McDonalds,Premium Bacon Ranch Salad w/ Grilled Chicken,320.0,1230.0,4.0,14.0,42.0
+53,McDonalds,Premium Bacon Ranch Salad w/ Crispy Chicken,490.0,1120.0,4.0,28.0,33.0
+54,McDonalds,Premium Southwest Salad w/o Chicken,220.0,500.0,9.0,10.0,8.0
+55,McDonalds,Premium Southwest Salad w/ Grilled Chicken,350.0,1070.0,9.0,12.0,37.0
+56,McDonalds,Premium Southwest Salad w/ Crispy Chicken,520.0,960.0,9.0,25.0,28.0
+57,Chick Fil-A,Chargrilled Chicken Club Sandwich,430.0,1120.0,7.0,16.0,37.0
+58,Chick Fil-A,Chargrilled Chicken Sandwich,310.0,820.0,7.0,6.0,29.0
+59,Chick Fil-A,Chick-n-Slider,270.0,800.0,4.0,11.0,16.0
+60,Chick Fil-A,1 Piece Chick-n-Strips,120.0,320.0,1.0,6.0,11.0
+61,Chick Fil-A,2 Piece Chick-n-Strips,230.0,630.0,1.0,12.0,22.0
+62,Chick Fil-A,3 Piece Chick-n-Strips,350.0,940.0,3.0,17.0,28.0
+63,Chick Fil-A,4 piece Chick-n-Strips,470.0,1250.0,4.0,23.0,37.0
+64,Chick Fil-A,Chicken Deluxe,500.0,1590.0,6.0,23.0,31.0
+65,Chick Fil-A,4 piece Chicken Nuggets,130.0,490.0,0.0,6.0,14.0
+66,Chick Fil-A,6 piece Chicken Nuggets,190.0,730.0,0.0,9.0,21.0
+67,Chick Fil-A,8 piece Chicken Nuggets,260.0,990.0,1.0,12.0,28.0
+68,Chick Fil-A,12 piece Chicken Nuggets,390.0,1460.0,1.0,18.0,41.0
+69,Chick Fil-A,30 piece Chicken Nuggets,970.0,3660.0,1.0,46.0,103.0
+70,Chick Fil-A,Chicken Salad Sandwich,490.0,1130.0,12.0,19.0,28.0
+71,Chick Fil-A,Chicken Sandwich,440.0,1350.0,5.0,19.0,28.0
+72,Chick Fil-A,4 Piece Grilled Chicken Nuggets,70.0,220.0,0.0,2.0,13.0
+73,Chick Fil-A,6 Piece Grilled Chicken Nuggets,110.0,330.0,0.0,3.0,19.0
+74,Chick Fil-A,8 piece Grilled Chicken Nuggets,140.0,440.0,0.0,4.0,25.0
+75,Chick Fil-A,12 Piece Grilled Chicken Nuggets,210.0,670.0,1.0,5.0,38.0
+76,Chick Fil-A,Spicy Grilled Chicken Sub Sandwich,430.0,1310.0,9.0,12.0,33.0
+77,Chick Fil-A,Regular Grilled Chicken Sub Sandwich,450.0,1000.0,10.0,13.0,34.0
+78,Chick Fil-A,Smokehouse BBQ Bacon Sandwich,500.0,1200.0,10.0,18.0,33.0
+79,Chick Fil-A,Spicy Chicken Sandwich,450.0,1620.0,5.0,19.0,29.0
+80,Chick Fil-A,Spicy Deluxe,540.0,1760.0,6.0,25.0,34.0
+81,Chick Fil-A,Chargrilled Chicken Cool Wrap,350.0,960.0,3.0,14.0,37.0
+82,Chick Fil-A,Chicken Enchiladas Meal Kit,860.0,2520.0,8.0,47.0,39.0
+83,Chick Fil-A,Chicken Parmesan Meal Kit,720.0,1780.0,7.0,31.0,48.0
+84,Sonic,Hatch Green Chile Cheeseburger,710.0,1120.0,7.0,43.0,35.0
+85,Sonic,Jalapeno Burger,640.0,930.0,6.0,37.0,31.0
+86,Sonic,Jr. Burger,340.0,640.0,6.0,17.0,15.0
+87,Sonic,Jr. Chili Cheeseburger,410.0,730.0,4.0,24.0,20.0
+88,Sonic,Jr. Deluxe Burger,380.0,470.0,4.0,23.0,15.0
+89,Sonic,Jr. Deluxe Cheeseburger,450.0,800.0,4.0,28.0,19.0
+90,Sonic,Jr. Double Cheeseburger,600.0,1350.0,7.0,38.0,31.0
+91,Sonic,Sonic Bacon Cheeseburger (w/mayo),870.0,1350.0,7.0,59.0,39.0
+92,Sonic,Sonic Burger W/ Mustard,640.0,790.0,7.0,37.0,31.0
+93,Sonic,Sonic Burger W/ Ketchup,650.0,860.0,10.0,37.0,32.0
+94,Sonic,Sonic Burger W/ Mayonnaise,740.0,760.0,7.0,48.0,31.0
+95,Sonic,Sonic Cheeseburger W/ Mustard,710.0,1120.0,7.0,43.0,35.0
+96,Sonic,Sonic Cheeseburger W/ Ketchup,720.0,1190.0,10.0,43.0,35.0
+97,Sonic,Sonic Cheeseburger W/ Mayonnaise,800.0,1090.0,7.0,54.0,35.0
+98,Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),1280.0,1630.0,7.0,92.0,67.0
+99,Sonic,Super Sonic Double Cheeseburger W/ Mustard,1120.0,1550.0,8.0,76.0,63.0
+100,Sonic,Super Sonic Double Cheeseburger W/ Ketchup,1130.0,1620.0,11.0,76.0,63.0
+101,Sonic,Super Sonic Double Cheeseburger W/ Mayo,1220.0,1520.0,8.0,87.0,63.0
+102,Sonic,Super Sonic Jalapeno Double Cheeseburger,1120.0,1690.0,7.0,76.0,63.0
+103,Sonic,Veggie Burger W/ Ketchup,450.0,1410.0,11.0,14.0,15.0
+104,Sonic,Veggie Burger With Mustard,450.0,1350.0,8.0,14.0,15.0
+105,Sonic,Veggie Burger W/ Mustard,450.0,1300.0,8.0,14.0,15.0
+106,Sonic,Grilled Asiago Caesar Chicken Club Sandwich,610.0,1570.0,8.0,30.0,40.0
+107,Sonic,Crispy Asiago Caesar Chicken Club Sandwich,680.0,1120.0,7.0,39.0,31.0
+108,Sonic,Grilled Chicken Sandwich,430.0,940.0,6.0,20.0,28.0
+109,Sonic,Crispy Chicken Sandwich,570.0,1060.0,6.0,33.0,23.0
+110,Sonic,Chicken Strip Sandwich,450.0,740.0,4.0,24.0,19.0
+111,Sonic,3 Piece Crispy Chicken Tender Dinner,280.0,800.0,0.0,14.0,22.0
+112,Sonic,5 Piece Crispy Chicken Tender Dinner,470.0,1340.0,0.0,24.0,37.0
+113,Sonic,Deluxe Ultimate Chicken Sandwich,740.0,1550.0,12.0,39.0,33.0
+114,Sonic,Buffalo Dunked Ultimate Chicken Sandwich,1000.0,4520.0,12.0,61.0,23.0
+115,Sonic,Garlic Parmesan Dunked Ultimate Chicken Sandwich,1350.0,2180.0,10.0,100.0,23.0
+116,Sonic,Small Jumbo Popcorn Chicken,380.0,1250.0,1.0,22.0,18.0
+117,Sonic,Large Jumbo Popcorn Chicken,560.0,1890.0,2.0,32.0,27.0
+118,Sonic,Small Spicy Jumbo Popcorn Chicken,350.0,860.0,0.0,17.0,21.0
+119,Sonic,Large Spicy Jumbo Popcorn Chicken,610.0,1500.0,0.0,30.0,36.0
+120,Sonic,3 Piece Super Crunch Chicken Strip Dinner,970.0,2160.0,9.0,46.0,30.0
+121,Sonic,4 Piece Super Crunch Chicken Strip Dinner,1080.0,2390.0,9.0,51.0,37.0
+122,Sonic,5 Piece Super Crunch Chicken Strip Dinner,1190.0,2610.0,9.0,57.0,44.0
+123,Sonic,3 Piece Super Crunch Chicken Strips,330.0,670.0,0.0,16.0,22.0
+124,Sonic,4 Piece Super Crunch Chicken Strips,440.0,900.0,1.0,21.0,29.0
+125,Sonic,5 Piece Super Crunch Chicken Strips,550.0,1120.0,1.0,26.0,36.0
+126,Sonic,Traditional Ultimate Chicken Sandwich,730.0,1540.0,11.0,39.0,32.0
+127,Sonic,Ultimate Chicken Club,100.0,2070.0,12.0,64.0,39.0
+128,Sonic,"All Beef All-american Style Dog ??6""",370.0,1180.0,15.0,18.0,12.0
+129,Sonic,"All Beef Chicago Dog ??6""",430.0,2310.0,17.0,20.0,14.0
+130,Sonic,"All Beef Chili Cheese Coney ??6""",410.0,1140.0,4.0,26.0,17.0
+131,Sonic,"All Beef New York Dog ??6""",340.0,1250.0,4.0,19.0,13.0
+132,Sonic,"All Beef Regular Hot Dog ??6""",320.0,870.0,3.0,18.0,11.0
+133,Sonic,Cheesy Bacon Pretzel Dog - 6 In.,500.0,1410.0,7.0,26.0,15.0
+134,Sonic,Corn Dog,210.0,530.0,4.0,11.0,6.0
+135,Sonic,Footlong Quarter Pound Coney,830.0,1940.0,9.0,54.0,30.0
+136,Sonic,The Original Pretzel Dog,320.0,910.0,2.0,18.0,11.0
+137,Arbys,Arby's Melt,330.0,920.0,5.0,11.0,18.0
+138,Arbys,Arby-Q Sandwich,400.0,1230.0,23.0,10.0,18.0
+139,Arbys,Beef 'n Cheddar Classic,450.0,1280.0,9.0,20.0,23.0
+140,Arbys,Beef 'n Cheddar Mid,630.0,2100.0,9.0,32.0,39.0
+141,Arbys,Bourbon BBQ Brisket Sandwich,650.0,1460.0,15.0,33.0,38.0
+142,Arbys,Bourbon BBQ Chicken Sandwich,690.0,1990.0,16.0,31.0,38.0
+143,Arbys,Bourbon BBQ Steak Sandwich,690.0,1990.0,16.0,31.0,38.0
+144,Arbys,Buttermilk Buffalo Chicken Sandwich,540.0,2110.0,6.0,24.0,29.0
+145,Arbys,Buttermilk Chicken Bacon & Swiss,650.0,1750.0,9.0,31.0,39.0
+146,Arbys,Buttermilk Chicken Cordon Bleu Sandwich,690.0,2000.0,7.0,35.0,41.0
+147,Arbys,Buttermilk Crispy Chicken Sandwich,550.0,1480.0,6.0,26.0,29.0
+148,Arbys,Classic French Dip & Swiss/Au Jus,540.0,2500.0,3.0,23.0,35.0
+149,Arbys,Classic Roast Beef,360.0,970.0,5.0,14.0,23.0
+150,Arbys,Double Roast Beef,510.0,1610.0,5.0,24.0,38.0
+151,Arbys,Fire-Roasted Philly Steak,640.0,1950.0,4.0,32.0,42.0
+152,Arbys,Grand Turkey Club,480.0,1610.0,9.0,24.0,30.0
+153,Arbys,Greek Gyro,710.0,1360.0,6.0,44.0,23.0
+154,Arbys,Half Pound Beef 'n Cheddar Sandwich,740.0,2530.0,9.0,39.0,49.0
+155,Arbys,Half Pound French Dip & Swiss,750.0,3350.0,3.0,36.0,55.0
+156,Arbys,Half Pound Roast Beef Sandwich,610.0,2040.0,5.0,30.0,48.0
+157,Arbys,Ham & Swiss Melt,300.0,1030.0,6.0,9.0,18.0
+158,Arbys,Loaded Italian Sandwich,680.0,2270.0,7.0,40.0,32.0
+159,Arbys,Pecan Chicken Salad Flatbread,710.0,980.0,9.0,46.0,22.0
+160,Arbys,Pecan Chicken Salad Sandwich,840.0,1210.0,20.0,44.0,33.0
+161,Arbys,2 piece Prime-Cut Chicken Tenders,240.0,640.0,0.0,11.0,16.0
+162,Arbys,3 piece Prime-Cut Chicken Tenders,360.0,950.0,0.0,17.0,23.0
+163,Arbys,5 piece Prime-Cut Chicken Tenders,600.0,1590.0,0.0,28.0,39.0
+164,Arbys,Reuben Sandwich,680.0,2420.0,5.0,31.0,37.0
+165,Arbys,Roast Beef Gyro,550.0,1290.0,5.0,29.0,24.0
+166,Arbys,Roast Turkey & Swiss Sandwich,710.0,1930.0,15.0,28.0,38.0
+167,Arbys,Roast Turkey & Swiss Wrap,520.0,1640.0,6.0,27.0,30.0
+168,Arbys,"Roast Turkey, Ranch & Bacon Sandwich",800.0,2420.0,16.0,34.0,45.0
+169,Arbys,"Roast Turkey, Ranch & Bacon Wrap",620.0,2130.0,6.0,34.0,37.0
+170,Arbys,Smoke Mountain w/ Beef Short Rib,740.0,2050.0,17.0,35.0,43.0
+171,Arbys,Smokehouse Beef Short Rib Sandwich,590.0,1510.0,14.0,59.0,26.0
+172,Arbys,Smokehouse Brisket,600.0,1240.0,7.0,35.0,33.0
+173,Arbys,Super Roast Beef,430.0,1060.0,11.0,17.0,23.0
+174,Arbys,Three Cheese Steak Sandwich,650.0,1760.0,9.0,36.0,30.0
+175,Arbys,Triple Decker Sandwich,1030.0,2940.0,19.0,51.0,62.0
+176,Arbys,Turkey Avocado Club,730.0,2140.0,16.0,28.0,41.0
+177,Arbys,Turkey Gyro,470.0,1520.0,5.0,20.0,25.0
+178,Arbys,Ultimate BLT,980.0,2130.0,19.0,55.0,43.0
+179,Arbys,Buffalo Chicken Slider,290.0,860.0,2.0,13.0,12.0
+180,Arbys,Chicken Tender 'n Cheese Slider,290.0,720.0,1.0,12.0,15.0
+181,Arbys,Corned Beef 'n Cheese Slider,220.0,890.0,1.0,9.0,14.0
+182,Arbys,Ham 'n Cheese Slider,210.0,780.0,2.0,8.0,13.0
+183,Arbys,Jalapeno Roast Beef 'n Cheese Slider,240.0,670.0,1.0,11.0,14.0
+184,Arbys,Pizza Slider,300.0,930.0,2.0,17.0,13.0
+185,Arbys,Roast Beef 'n Cheese Slider,240.0,670.0,1.0,11.0,14.0
+186,Arbys,Turkey 'n Cheese Slider,200.0,760.0,2.0,7.0,14.0
+187,Arbys,Chopped Side Salad,70.0,100.0,2.0,5.0,5.0
+188,Arbys,Crispy Chicken Farmhouse Salad,430.0,1000.0,4.0,24.0,28.0
+189,Arbys,Greek Gyro Salad,420.0,700.0,4.0,37.0,10.0
+190,Arbys,Roast Turkey Farmhouse Salad,230.0,870.0,5.0,13.0,22.0
+191,Arbys,Super Greek Salad,720.0,1310.0,7.0,53.0,22.0
+192,Burger King,American Brewhouse King,1550.0,1820.0,7.0,126.0,134.0
+193,Burger King,Bacon & Swiss Sourdough King,1000.0,1320.0,8.0,65.0,56.0
+194,Burger King,Bacon Cheeseburger,330.0,830.0,7.0,16.0,18.0
+195,Burger King,Bacon Cheeseburger Deluxe,290.0,720.0,7.0,14.0,12.0
+196,Burger King,Bacon King,1040.0,1900.0,10.0,48.0,57.0
+197,Burger King,Bacon King Jr,730.0,1930.0,16.0,39.0,32.0
+198,Burger King,BBQ Bacon King,1100.0,1850.0,13.0,75.0,57.0
+199,Burger King,Cheeseburger,300.0,710.0,6.0,14.0,16.0
+200,Burger King,Double Bacon Cheeseburger,520.0,1180.0,8.0,31.0,31.0
+201,Burger King,Double Cheeseburger,450.0,960.0,6.0,26.0,26.0
+202,Burger King,Double Hamburger,360.0,520.0,6.0,18.0,22.0
+203,Burger King,Double Quarter Pound King,900.0,1740.0,11.0,54.0,56.0
+204,Burger King,Extra Long Cheeseburger,580.0,1030.0,9.0,33.0,26.0
+205,Burger King,Hamburger,260.0,490.0,6.0,10.0,13.0
+206,Burger King,Homestyle Cheeseburger,550.0,1140.0,10.0,27.0,30.0
+207,Burger King,Jalapeno King Sandwich,990.0,1550.0,7.0,65.0,55.0
+208,Burger King,Mushroom & Swiss King,940.0,1380.0,8.0,63.0,49.0
+209,Burger King,Rodeo Burger,310.0,450.0,9.0,13.0,9.0
+210,Burger King,Rodeo King,1250.0,2270.0,14.0,82.0,60.0
+211,Burger King,Sourdough King Single,730.0,1570.0,12.0,43.0,35.0
+212,Burger King,Sourdough King Double,970.0,1640.0,12.0,61.0,55.0
+213,Burger King,Steakhouse King,1100.0,1620.0,13.0,74.0,50.0
+214,Burger King,Bacon & Cheese Whopper,770.0,1360.0,9.0,48.0,29.0
+215,Burger King,DOUBLE WHOPPER w/o Cheese,900.0,1050.0,11.0,57.0,47.0
+216,Burger King,DOUBLE WHOPPER w/ Cheese,990.0,1480.0,11.0,65.0,52.0
+217,Burger King,WHOPPER w/o Cheese,660.0,980.0,11.0,40.0,28.0
+218,Burger King,WHOPPER w/ Cheese,760.0,1410.0,11.0,47.0,33.0
+219,Burger King,WHOPPER JR. w/o Cheese,340.0,510.0,6.0,19.0,14.0
+220,Burger King,WHOPPER JR. w/ Cheese,380.0,730.0,6.0,23.0,16.0
+221,Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590.0,1540.0,6.0,40.0,42.0
+222,Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720.0,1960.0,7.0,50.0,36.0
+223,Burger King,Chicken BLT Salad w/ Grilled Chicken,550.0,1640.0,5.0,37.0,36.0
+224,Burger King,Chicken BLT Salad w/ Crispy Chicken,690.0,1750.0,8.0,48.0,35.0
+225,Burger King,Chicken Caesar Salad w/ Grilled Chicken,530.0,1640.0,6.0,32.0,35.0
+226,Burger King,Chicken Caesar Salad w/ Crispy Chicken,670.0,1760.0,8.0,43.0,34.0
+227,Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560.0,980.0,34.0,30.0,29.0
+228,Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700.0,1090.0,37.0,41.0,28.0
+229,Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320.0,650.0,4.0,14.0,36.0
+230,Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450.0,1070.0,6.0,24.0,29.0
+231,Burger King,Side Caesar Salad with dressing,220.0,540.0,3.0,20.0,6.0
+232,Burger King,Side Garden Salad and Avocado Ranch Dressing,230.0,520.0,3.0,21.0,5.0
+233,Burger King,Bacon Cheddar Ranch Crispy Chicken Sandwich,830.0,2100.0,9.0,52.0,34.0
+234,Burger King,BBQ Bacon Crispy Chicken Sandwich,440.0,630.0,13.0,27.0,7.0
+235,Burger King,Big Fish Sandwich,530.0,1360.0,7.0,27.0,17.0
+236,Burger King,BK VEGGIE Burger,410.0,1030.0,8.0,16.0,22.0
+237,Burger King,Chicken Burger,480.0,1160.0,10.0,25.0,22.0
+238,Burger King,Chicken Cordon Bleu Sandwich,730.0,1930.0,16.0,39.0,32.0
+239,Burger King,Chicken Fries,290.0,780.0,1.0,17.0,16.0
+240,Burger King,4 Piece Chicken Nuggets,190.0,310.0,0.0,11.0,10.0
+241,Burger King,6 Piece Chicken Nuggets,290.0,460.0,0.0,17.0,15.0
+242,Burger King,20 Piece Chicken Nuggets,950.0,1530.0,0.0,55.0,51.0
+243,Burger King,Chicken Nuggets (10pc),470.0,890.0,0.0,29.0,21.0
+244,Burger King,Chicken Parmesan Sandwich,570.0,1340.0,9.0,25.0,32.0
+245,Burger King,Crispy Buffalo Chicken Melt,580.0,2310.0,8.0,28.0,30.0
+246,Burger King,Crispy Chicken Jr.,430.0,760.0,4.0,28.0,12.0
+247,Burger King,Crispy Chicken Sandwich,670.0,1070.0,7.0,41.0,23.0
+248,Burger King,Grilled Chicken Sandwich,470.0,850.0,6.0,19.0,37.0
+249,Burger King,Grilled Chili Cheese Dog,330.0,980.0,5.0,19.0,14.0
+250,Burger King,Grilled Hot Dog,310.0,960.0,10.0,16.0,11.0
+251,Burger King,Jalapeno Chicken Fries,300.0,950.0,1.0,18.0,15.0
+252,Burger King,Original Chicken Sandwich,630.0,1390.0,4.0,39.0,24.0
+253,Burger King,Pretzel Chicken Fries,340.0,1200.0,1.0,21.0,16.0
+254,Burger King,Rodeo Crispy Chicken Sandwich,410.0,870.0,14.0,17.0,12.0
+255,Burger King,Sourdough Chicken Club,840.0,1760.0,7.0,51.0,32.0
+256,Burger King,4 Piece Spicy Chicken Nuggets,210.0,570.0,0.0,15.0,8.0
+257,Burger King,Spicy Chicken Nuggets,530.0,1420.0,0.0,37.0,20.0
+258,Burger King,Spicy Crispy Chicken Jr.,410.0,850.0,5.0,25.0,12.0
+259,Burger King,Spicy Crispy Chicken Sandwich,700.0,1140.0,8.0,42.0,25.0
+260,Burger King,Spicy Crispy Jalapeno Chicken Sandwich,760.0,1720.0,8.0,45.0,32.0
+261,Dairy Queen,1/2 lb. FlameThrowerÂ® GrillBurger,1000.0,1610.0,9.0,74.0,46.0
+262,Dairy Queen,1/2 lb. GrillBurger with Cheese,800.0,1280.0,13.0,51.0,40.0
+263,Dairy Queen,1/4 lb. Bacon Cheese GrillBurger,630.0,1250.0,13.0,37.0,30.0
+264,Dairy Queen,1/4 lb. GrillBurger with Cheese,540.0,1020.0,13.0,30.0,23.0
+265,Dairy Queen,1/4 lb. Mushroom Swiss GrillBurger,570.0,820.0,8.0,35.0,24.0
+266,Dairy Queen,Original Cheeseburger,400.0,930.0,8.0,18.0,19.0
+267,Dairy Queen,Original Double Cheeseburger,630.0,1240.0,9.0,34.0,34.0
+268,Dairy Queen,4 Piece Chicken Strip Basket w/ Country Gravy,1030.0,2780.0,4.0,53.0,35.0
+269,Dairy Queen,6 Piece Chicken Strip Basket w/ Country Gravy,1260.0,3500.0,4.0,66.0,49.0
+270,Dairy Queen,Bacon Cheese Dog,420.0,1140.0,3.0,26.0,19.0
+271,Dairy Queen,Cheese Dog,390.0,1000.0,3.0,24.0,16.0
+272,Dairy Queen,Chili Cheese Dog,380.0,900.0,3.0,24.0,16.0
+273,Dairy Queen,Chili Dog,330.0,1050.0,5.0,20.0,13.0
+274,Dairy Queen,Hot Dog,290.0,900.0,4.0,17.0,11.0
+275,Dairy Queen,Relish Dog,350.0,1000.0,6.0,20.0,13.0
+276,Dairy Queen,Barbecue Pork Sandwich,310.0,830.0,9.0,9.0,17.0
+277,Dairy Queen,Breaded Mushrooms,250.0,500.0,1.0,9.0,7.0
+278,Dairy Queen,Regular Cheese Curds,550.0,900.0,0.0,45.0,35.0
+279,Dairy Queen,Large Cheese Curds,1050.0,2210.0,30.0,75.0,43.0
+280,Dairy Queen,Chili Cheese Mega Dog,760.0,1570.0,6.0,49.0,32.0
+281,Dairy Queen,Corn Dog,260.0,450.0,7.0,15.0,6.0
+282,Dairy Queen,Crispy Fish Sandwich,470.0,1210.0,7.0,22.0,17.0
+283,Dairy Queen,Deluxe Cheeseburger,400.0,930.0,9.0,18.0,20.0
+284,Dairy Queen,Deluxe Double Cheeseburger,640.0,1240.0,9.0,34.0,34.0
+285,Dairy Queen,Deluxe Double Hamburger,540.0,750.0,9.0,26.0,29.0
+286,Dairy Queen,Deluxe Hamburger,350.0,680.0,9.0,14.0,17.0
+287,Dairy Queen,DQ UltimateÂ® Burger,780.0,1390.0,7.0,48.0,41.0
+288,Dairy Queen,Pork Tenderloin Sandwich,580.0,910.0,6.0,34.0,19.0
+289,Dairy Queen,Steak Finger Basket,910.0,2210.0,2.0,48.0,23.0
+290,Dairy Queen,3 chicken strips Chicken Strips,350.0,960.0,0.0,20.0,22.0
+291,Dairy Queen,Chicken Bacon Ranch Sandwich,500.0,1190.0,3.0,20.0,33.0
+292,Dairy Queen,Chicken Mozzarella Sandwich,640.0,1530.0,3.0,25.0,34.0
+293,Dairy Queen,Crispy Chicken BLT Salad,520.0,1470.0,6.0,31.0,37.0
+294,Dairy Queen,Crispy Chicken Garden Greens Salad,280.0,670.0,6.0,13.0,17.0
+295,Dairy Queen,Crispy Chicken Sandwich,600.0,1250.0,8.0,30.0,24.0
+296,Dairy Queen,Crispy Chicken Wrap,350.0,820.0,1.0,21.0,12.0
+297,Dairy Queen,Grilled Chicken BLT Salad,380.0,1540.0,6.0,19.0,42.0
+298,Dairy Queen,Grilled Chicken Garden Greens Salad,150.0,730.0,6.0,2.0,23.0
+299,Dairy Queen,Grilled Chicken Sandwich,360.0,1040.0,5.0,15.0,25.0
+300,Dairy Queen,Grilled Chicken Wrap,280.0,800.0,1.0,15.0,15.0
+301,Dairy Queen,Side Salad,20.0,15.0,3.0,0.0,1.0
+302,Dairy Queen,Turkey BLT Sandwich,550.0,1420.0,3.0,26.0,30.0
+303,Subway,"6"" B.L.T.",320.0,680.0,6.0,9.0,15.0
+304,Subway,Footlong B.L.T.,640.0,1360.0,12.0,18.0,30.0
+305,Subway,"6"" BBQ Rib Sandwich",430.0,590.0,8.0,18.0,19.0
+306,Subway,Footlong BBQ Rib Sandwich,860.0,1180.0,16.0,36.0,38.0
+307,Subway,"6"" Big Hot Pastrami",580.0,1470.0,7.0,31.0,29.0
+308,Subway,Footlong Big Hot Pastrami,1160.0,2940.0,14.0,62.0,58.0
+309,Subway,"6"" Big Philly Cheesesteak",500.0,1310.0,8.0,17.0,38.0
+310,Subway,Footlong Big Philly Cheesesteak,1000.0,2620.0,16.0,34.0,76.0
+311,Subway,Kids Mini Sub Black Forest Ham,180.0,450.0,5.0,3.0,10.0
+312,Subway,"6"" Black Forest Ham",290.0,830.0,8.0,5.0,18.0
+313,Subway,Footlong Black Forest Ham,580.0,1660.0,16.0,10.0,36.0
+314,Subway,"6"" Carved Turkey",330.0,890.0,7.0,5.0,25.0
+315,Subway,Footlong Carved Turkey,660.0,1780.0,14.0,10.0,50.0
+316,Subway,"6"" Carved Turkey & Bacon w/ Cheese",570.0,1600.0,8.0,26.0,33.0
+317,Subway,Footlong Carved Turkey & Bacon w/ Cheese,1140.0,3200.0,16.0,52.0,66.0
+318,Subway,"6"" Chicken & Bacon Ranch Melt",570.0,1080.0,8.0,28.0,35.0
+319,Subway,Footlong Chicken & Bacon Ranch Melt,1140.0,2160.0,16.0,56.0,70.0
+320,Subway,"6"" Chicken Pizziola Melt",460.0,1140.0,9.0,16.0,32.0
+321,Subway,Footlong Chicken Pizziola Melt,920.0,2280.0,18.0,32.0,64.0
+322,Subway,"6"" Cold Cut Combo",370.0,1140.0,7.0,13.0,18.0
+323,Subway,Footlong Cold Cut Combo,740.0,2280.0,14.0,26.0,36.0
+324,Subway,"6"" Corned Beef Reuben",470.0,1770.0,12.0,15.0,39.0
+325,Subway,Footlong Corned Beef Reuben,940.0,3540.0,24.0,30.0,78.0
+326,Subway,"6"" Italian B.M.T.",410.0,1300.0,8.0,16.0,20.0
+327,Subway,Footlong Italian B.M.T.,820.0,2600.0,16.0,32.0,40.0
+328,Subway,"6"" Italian Hero",550.0,1470.0,9.0,29.0,26.0
+329,Subway,Footlong Italian Hero,1100.0,2940.0,18.0,58.0,52.0
+330,Subway,"6"" Meatball Marinara",480.0,950.0,12.0,18.0,21.0
+331,Subway,Footlong Meatball Marinara,960.0,1900.0,24.0,36.0,42.0
+332,Subway,"6"" Oven Roasted Chicken",320.0,640.0,8.0,5.0,23.0
+333,Subway,Footlong Oven Roasted Chicken,640.0,1280.0,16.0,10.0,46.0
+334,Subway,Kids Mini Sub Roast Beef,200.0,390.0,5.0,3.0,14.0
+335,Subway,"6"" Roast Beef",320.0,700.0,7.0,5.0,24.0
+336,Subway,Footlong Roast Beef,640.0,1400.0,14.0,10.0,48.0
+337,Subway,"6"" Rotisserie Style Chicken",350.0,540.0,7.0,6.0,29.0
+338,Subway,Footlong Rotisserie Style Chicken,700.0,1080.0,14.0,12.0,58.0
+339,Subway,"6"" Spicy Italian",480.0,1520.0,8.0,24.0,20.0
+340,Subway,Footlong Spicy Italian,960.0,3040.0,16.0,48.0,40.0
+341,Subway,"6"" Steak and Cheese",380.0,1060.0,8.0,10.0,26.0
+342,Subway,Footlong Steak and Cheese,760.0,2120.0,16.0,20.0,52.0
+343,Subway,"6"" Subway Club",310.0,880.0,7.0,5.0,23.0
+344,Subway,Footlong Subway Club,620.0,1760.0,14.0,10.0,46.0
+345,Subway,"6"" Subway Melt (includes cheese)",370.0,1210.0,8.0,11.0,23.0
+346,Subway,Footlong Subway Melt (includes cheese),740.0,1420.0,16.0,22.0,46.0
+347,Subway,"6"" Subway Seafood Sensation",420.0,690.0,8.0,19.0,13.0
+348,Subway,Footlong Subway Seafood Sensation,840.0,1380.0,16.0,38.0,26.0
+349,Subway,"6"" Sweet Onion Chicken Teriyaki",380.0,900.0,18.0,5.0,26.0
+350,Subway,Footlong Sweet Onion Chicken Teriyaki,760.0,1800.0,36.0,10.0,52.0
+351,Subway,"6"" Tuna",470.0,620.0,6.0,24.0,20.0
+352,Subway,Footlong Tuna,940.0,1240.0,12.0,48.0,40.0
+353,Subway,"6"" Turkey & Bacon Avocado",390.0,860.0,7.0,13.0,22.0
+354,Subway,Footlong Turkey & Bacon Avocado,780.0,1720.0,14.0,26.0,44.0
+355,Subway,Kids Mini Sub Turkey Breast,180.0,380.0,5.0,2.0,10.0
+356,Subway,"6"" Turkey Breast",280.0,810.0,7.0,4.0,18.0
+357,Subway,Footlong Turkey Breast,560.0,1620.0,14.0,8.0,36.0
+358,Subway,"6"" Turkey Breast & Ham",280.0,820.0,8.0,4.0,18.0
+359,Subway,Footlong Turkey Breast & Ham,560.0,1640.0,16.0,8.0,36.0
+360,Subway,"6"" Turkey Italiano Melt (with Provolone)",490.0,1480.0,8.0,24.0,24.0
+361,Subway,Footlong Turkey Italiano Melt (with Provolone),980.0,2960.0,16.0,48.0,48.0
+362,Subway,Kids Mini Sub Veggie Delite,150.0,190.0,4.0,2.0,6.0
+363,Subway,"6"" Veggie Delite",230.0,310.0,6.0,3.0,8.0
+364,Subway,Footlong Veggie Delite,460.0,620.0,12.0,6.0,16.0
+365,Subway,"6"" Veggie Patty",390.0,800.0,8.0,7.0,23.0
+366,Subway,Footlong Veggie Patty,780.0,1600.0,16.0,14.0,46.0
+367,Subway,Autumn Carved Turkey Salad,300.0,1120.0,22.0,9.0,25.0
+368,Subway,B.L.T. Salad,150.0,420.0,5.0,8.0,10.0
+369,Subway,Big Hot Pastrami Melt Salad,400.0,1250.0,4.0,29.0,23.0
+370,Subway,Big Philly Cheesesteak Salad,330.0,1080.0,6.0,16.0,32.0
+371,Subway,Black Forest Ham Salad,110.0,590.0,6.0,3.0,12.0
+372,Subway,Buffalo Chicken Salad (with Ranch dressing),360.0,1100.0,6.0,26.0,20.0
+373,Subway,Carved Turkey & Bacon w/ Cheese Salad,280.0,1320.0,5.0,12.0,28.0
+374,Subway,Carved Turkey Salad,150.0,680.0,3.0,4.0,19.0
+375,Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510.0,1040.0,7.0,38.0,30.0
+376,Subway,Cold Cut Combo Salad,180.0,820.0,5.0,11.0,12.0
+377,Subway,Double Chicken Salad,220.0,490.0,4.0,5.0,36.0
+378,Subway,Italian B.M.T.Â® Salad,230.0,1060.0,6.0,15.0,14.0
+379,Subway,Italian Hero Salad,230.0,1060.0,8.0,15.0,14.0
+380,Subway,Meatball Marinara Salad,310.0,720.0,10.0,17.0,16.0
+381,Subway,Oven Roasted Chicken Salad,140.0,280.0,4.0,3.0,19.0
+382,Subway,Roast Beef Salad,140.0,450.0,5.0,4.0,18.0
+383,Subway,Spicy Italian Salad,310.0,1280.0,6.0,23.0,15.0
+384,Subway,Steak & Cheese Salad,210.0,830.0,6.0,8.0,20.0
+385,Subway,Subway Club Salad,140.0,640.0,5.0,4.0,17.0
+386,Subway,Subway MeltÂ® Salad,200.0,910.0,6.0,10.0,18.0
+387,Subway,Sweet Onion Chicken Teriyaki Salad,200.0,660.0,16.0,3.0,20.0
+388,Subway,Tuna Salad,310.0,370.0,4.0,24.0,15.0
+389,Subway,Turkey Breast & Ham Salad,110.0,580.0,5.0,3.0,12.0
+390,Subway,Turkey Breast Salad,110.0,570.0,5.0,2.0,12.0
+391,Subway,Veggie Delite Salad,50.0,65.0,4.0,1.0,3.0
+392,Subway,Chipotle Southwest Steak & Cheese Wrap,760.0,2250.0,7.0,37.0,43.0
+393,Subway,Rotisserie-Style Chicken Caesar Wrap,730.0,1900.0,4.0,34.0,55.0
+394,Subway,"Turkey, Bacon & Guacamole Wrap",810.0,2970.0,6.0,42.0,43.0
+395,Subway,Cheese & Veggies Pizza,740.0,1270.0,9.0,25.0,36.0
+396,Subway,Cheese Pizza,680.0,1070.0,7.0,22.0,32.0
+397,Subway,Pepperoni Pizza,790.0,1350.0,8.0,32.0,38.0
+398,Subway,Sausage Pizza,820.0,1420.0,8.0,34.0,39.0
+399,Taco Bell,1/2 lb.* Cheesy Potato Burrito,540.0,1360.0,4.0,26.0,19.0
+400,Taco Bell,1/2 lb.* Combo Burrito,460.0,1320.0,3.0,18.0,21.0
+401,Taco Bell,7-Layer Burrito,510.0,1090.0,4.0,19.0,16.0
+402,Taco Bell,Bean Burrito,370.0,960.0,3.0,11.0,13.0
+403,Taco Bell,Beefy 5-Layer Burrito,550.0,1270.0,5.0,22.0,19.0
+404,Taco Bell,Beefy FritosÂ® Burrito,440.0,1030.0,3.0,18.0,13.0
+405,Taco Bell,Black Bean Burrito,410.0,1100.0,3.0,12.0,14.0
+406,Taco Bell,Burrito SupremeÂ® ??Beef,420.0,1090.0,5.0,16.0,16.0
+407,Taco Bell,Burrito SupremeÂ® - Chicken,390.0,1050.0,5.0,12.0,19.0
+408,Taco Bell,Burrito SupremeÂ® - Steak,390.0,1090.0,5.0,13.0,17.0
+409,Taco Bell,Cantina Power Burrito - Chicken,760.0,1960.0,7.0,27.0,32.0
+410,Taco Bell,Cantina Power Burrito - Steak,780.0,1900.0,7.0,28.0,33.0
+411,Taco Bell,Cantina Power Burrito - Veggie,740.0,1750.0,8.0,26.0,20.0
+412,Taco Bell,Cheesy Bean and Rice Burrito,420.0,930.0,4.0,17.0,11.0
+413,Taco Bell,Chili Cheese Burrito,380.0,930.0,2.0,17.0,16.0
+414,Taco Bell,Chicken Crunchy Cheesy Core Burrito,610.0,1510.0,5.0,24.0,25.0
+415,Taco Bell,Steak Crunchy Cheesy Core Burrito,610.0,1520.0,5.0,24.0,25.0
+416,Taco Bell,Beef Crunchy Cheesy Core Burrito,630.0,1530.0,5.0,26.0,22.0
+417,Taco Bell,Loaded Taco Burrito,550.0,1130.0,4.0,29.0,20.0
+418,Taco Bell,Chicken Quesarito,620.0,1440.0,4.0,30.0,24.0
+419,Taco Bell,Steak Quesarito,630.0,1410.0,4.0,31.0,25.0
+420,Taco Bell,Beef Quesarito,650.0,1450.0,5.0,34.0,22.0
+421,Taco Bell,Shredded Chicken Burrito,400.0,960.0,3.0,18.0,16.0
+422,Taco Bell,Smothered Burrito - Beef,710.0,2260.0,4.0,35.0,28.0
+423,Taco Bell,Smothered Burrito - Shredded Chicken,650.0,2230.0,4.0,28.0,34.0
+424,Taco Bell,Smothered Burrito - Steak,670.0,2080.0,4.0,29.0,35.0
+425,Taco Bell,Chicken Spicy Cheesy Core Burrito,540.0,1740.0,5.0,20.0,24.0
+426,Taco Bell,Steak Spicy Cheesy Core Burrito,550.0,1750.0,5.0,21.0,24.0
+427,Taco Bell,Beef Spicy Cheesy Core Burrito,570.0,1760.0,5.0,23.0,22.0
+428,Taco Bell,Triple Melt Burrito,410.0,1030.0,3.0,16.0,15.0
+429,Taco Bell,XXL Grilled Stuft Burrito - Beef,880.0,2020.0,6.0,42.0,31.0
+430,Taco Bell,XXL Grilled Stuft Burrito - Chicken,830.0,1940.0,6.0,35.0,37.0
+431,Taco Bell,XXL Grilled Stuft Burrito - Steak,820.0,2020.0,7.0,36.0,33.0
+432,Taco Bell,Chicken Soft Taco,170.0,460.0,1.0,6.0,12.0
+433,Taco Bell,Cool RanchÂ® DoritosÂ® Double DeckerÂ® Taco,320.0,770.0,2.0,14.0,13.0
+434,Taco Bell,Cool RanchÂ® DoritosÂ® Locos Taco,160.0,350.0,1.0,10.0,8.0
+435,Taco Bell,Cool RanchÂ® DoritosÂ® Locos Taco Supreme,200.0,370.0,3.0,12.0,9.0
+436,Taco Bell,Crunchy Taco,170.0,290.0,1.0,10.0,8.0
+437,Taco Bell,Crunchy Taco SupremeÂ®,200.0,320.0,2.0,12.0,9.0
+438,Taco Bell,Double DeckerÂ® Taco,320.0,640.0,2.0,14.0,13.0
+439,Taco Bell,DOUBLE DECKERÂ® Taco SupremeÂ®,350.0,670.0,3.0,16.0,14.0
+440,Taco Bell,Spicy Sweet Double Stacked Taco,340.0,640.0,6.0,18.0,12.0
+441,Taco Bell,Cool Ranch Habanero Double Stacked Taco,350.0,630.0,3.0,20.0,13.0
+442,Taco Bell,Nacho Crunch Double Stacked Taco,380.0,650.0,2.0,19.0,13.0
+443,Taco Bell,Fiery DoritosÂ® Double DeckerÂ® Taco,320.0,770.0,2.0,13.0,14.0
+444,Taco Bell,Fiery DoritosÂ® Locos Taco,170.0,370.0,1.0,10.0,8.0
+445,Taco Bell,Fiery DoritosÂ® Locos Taco Supreme,200.0,390.0,2.0,12.0,9.0
+446,Taco Bell,Grilled Steak Soft Taco,250.0,550.0,2.0,14.0,11.0
+447,Taco Bell,Nacho Cheese DoritosÂ® Double DeckerÂ® Taco,320.0,760.0,2.0,13.0,14.0
+448,Taco Bell,Nacho Cheese DoritosÂ® Locos Tacos,170.0,340.0,1.0,9.0,8.0
+449,Taco Bell,Nacho Cheese DoritosÂ® Locos Tacos Supreme,200.0,370.0,2.0,11.0,9.0
+450,Taco Bell,Soft Taco SupremeÂ® ??Beef,230.0,530.0,3.0,11.0,10.0
+451,Taco Bell,Soft Taco-Beef,200.0,510.0,1.0,9.0,10.0
+452,Taco Bell,Spicy Potato Soft Taco,250.0,510.0,1.0,13.0,6.0
+453,Taco Bell,Chalupa SupremeÂ® - Chicken,340.0,530.0,4.0,18.0,16.0
+454,Taco Bell,Chalupa SupremeÂ® - Steak,340.0,570.0,4.0,18.0,14.0
+455,Taco Bell,Chalupa SupremeÂ®?Beef,370.0,570.0,4.0,21.0,13.0
+456,Taco Bell,Double Chalupa,600.0,1010.0,5.0,35.0,21.0
+457,Taco Bell,Wild Naked Chicken Chalupa,420.0,1070.0,2.0,28.0,19.0
+458,Taco Bell,Mild Naked Chicken Chalupa,440.0,1090.0,1.0,30.0,20.0
+459,Taco Bell,Spicy Double Chalupa,600.0,1240.0,5.0,35.0,21.0
+460,Taco Bell,Fresco Bean Burrito,350.0,950.0,3.0,9.0,11.0
+461,Taco Bell,Fresco Burrito SupremeÂ® ??Chicken,340.0,1020.0,4.0,8.0,17.0
+462,Taco Bell,Fresco Burrito SupremeÂ® ??Steak,340.0,1060.0,4.0,9.0,15.0
+463,Taco Bell,Fresco Chicken Soft Taco,150.0,460.0,2.0,4.0,11.0
+464,Taco Bell,Fresco Crunchy Taco,140.0,290.0,1.0,8.0,6.0
+465,Taco Bell,Fresco Grilled Steak Soft Taco,150.0,500.0,2.0,4.0,9.0
+466,Taco Bell,Fresco Soft Taco,170.0,500.0,2.0,7.0,8.0
+467,Taco Bell,Cheesy Gordita Crunch,490.0,810.0,6.0,29.0,20.0
+468,Taco Bell,DoritosÂ® Cheesy Gordita Crunch - Cool Ranch,490.0,890.0,5.0,28.0,20.0
+469,Taco Bell,DoritosÂ® Cheesy Gordita Crunch - Fiery,490.0,890.0,4.0,28.0,20.0
+470,Taco Bell,DoritosÂ® Cheesy Gordita Crunch - Nacho Cheese,490.0,880.0,5.0,28.0,20.0
+471,Taco Bell,Double Cheesy Gordita Crunch,570.0,1110.0,5.0,32.0,25.0
+472,Taco Bell,Gordita SupremeÂ® ??Beef,300.0,550.0,6.0,14.0,13.0
+473,Taco Bell,Gordita SupremeÂ® - Chicken,270.0,510.0,6.0,10.0,16.0
+474,Taco Bell,Gordita SupremeÂ® - Steak,270.0,550.0,6.0,11.0,14.0
+475,Taco Bell,Nacho Fries Bellgrande,710.0,1420.0,4.0,41.0,13.0
+476,Taco Bell,Nachos BellGrandeÂ®,760.0,1100.0,5.0,39.0,18.0
+477,Taco Bell,Nachos Supreme,430.0,690.0,3.0,23.0,12.0
+478,Taco Bell,Triple Layer Nachos,320.0,600.0,2.0,15.0,7.0
+479,Taco Bell,Triple Melt Nachos,260.0,550.0,1.0,16.0,10.0
+480,Taco Bell,Beefy Cheddar Crunchwrap Slider,410.0,960.0,3.0,19.0,14.0
+481,Taco Bell,Beefy Mini Quesadilla,210.0,560.0,1.0,12.0,9.0
+482,Taco Bell,Beefy Nacho Griller,420.0,870.0,3.0,19.0,12.0
+483,Taco Bell,BLT Crunchwrap Slider,430.0,900.0,4.0,23.0,12.0
+484,Taco Bell,Cantina Power Bowl - Chicken,560.0,1520.0,4.0,22.0,26.0
+485,Taco Bell,Cantina Power Bowl - Steak,580.0,1460.0,4.0,23.0,27.0
+486,Taco Bell,Cantina Power Bowl - Veggie,540.0,1310.0,4.0,21.0,14.0
+487,Taco Bell,Cheese Quesadilla,480.0,1000.0,3.0,27.0,19.0
+488,Taco Bell,Cheese Roll-Up,190.0,450.0,1.0,9.0,9.0
+489,Taco Bell,Chicken Quesadilla,520.0,1210.0,3.0,28.0,27.0
+490,Taco Bell,Chickstar,620.0,1290.0,4.0,37.0,17.0
+492,Taco Bell,Chipotle Crispy Chicken Griller,290.0,640.0,1.0,18.0,9.0
+493,Taco Bell,Crispy Chicken Quesadilla,650.0,1480.0,3.0,37.0,26.0
+494,Taco Bell,Crunchwrap SupremeÂ®,540.0,1110.0,7.0,21.0,16.0
+495,Taco Bell,Double Tostada,270.0,650.0,2.0,11.0,12.0
+496,Taco Bell,Express Taco Salad w/ Chips,580.0,1270.0,7.0,29.0,23.0
+497,Taco Bell,Loaded Potato Griller,470.0,1120.0,5.0,22.0,13.0
+498,Taco Bell,Mexican Pizza,540.0,860.0,2.0,31.0,20.0
+499,Taco Bell,MexiMeltÂ®,270.0,740.0,2.0,14.0,14.0
+500,Taco Bell,Steak Quesalupa,440.0,840.0,3.0,23.0,22.0
+501,Taco Bell,Chicken Quesalupa,440.0,840.0,3.0,23.0,22.0
+502,Taco Bell,Beef Quesalupa,460.0,890.0,3.0,26.0,19.0
+503,Taco Bell,Shredded Chicken Mini Quesadilla,180.0,540.0,1.0,8.0,12.0
+504,Taco Bell,Spicy Chicken Crunchwrap Slider,400.0,900.0,3.0,20.0,15.0
+505,Taco Bell,Spicy Tostada,200.0,440.0,1.0,10.0,7.0
+506,Taco Bell,Stacker,390.0,1050.0,3.0,18.0,18.0
+507,Taco Bell,Steak Quesadilla,520.0,1250.0,3.0,28.0,25.0
+508,Taco Bell,Original Triple Double Crunchwrap,700.0,1550.0,7.0,30.0,23.0
+509,Taco Bell,Spicy Triple Double Crunchwrap,780.0,1850.0,8.0,38.0,23.0
+511,Taco Bell,Fiesta Taco Salad-Beef,780.0,1340.0,7.0,42.0,26.0
+512,Taco Bell,Fiesta Taco Salad-Chicken,720.0,1260.0,8.0,35.0,32.0
+513,Taco Bell,Fiesta Taco Salad-Steak,720.0,1340.0,8.0,36.0,28.0
+517,Burger King,?ì½°?¸ë¡ì¹ì¦X,879.0,1643.0,6.1,23.0,41.0
+518,Burger King,?ì½°?¸ë¡ì¹ì¦,834.0,1133.0,4.0,23.0,42.0
+520,Burger King,ë¡±ì¹?¨ë??¤,579.0,1100.0,7.7,5.5,25.0
+522,Burger King,ë©ê?ëª¬ì¤?°X,1420.0,2319.0,16.9,28.0,60.0
+524,Burger King,ëª¬ì¤?°X,1140.0,2222.0,18.6,27.6,51.0
+526,Burger King,ë¶ê³ ê¸°íµì¹í¨ë²ê±°,712.0,805.0,2.7,11.0,26.0
+529,Burger King,ë¶ê³ ê¸°ì??¼ì£¼?ì´,380.0,523.0,3.6,8.0,18.0
+530,Burger King,?ê¸°?ì´?ì°ë²ê±°,474.0,1226.0,6.5,6.0,14.0
+531,Burger King,?ë¹ ?ì´?ì°ë²ê±°,594.0,1261.0,6.6,9.0,24.0
+532,Burger King,?ë§?ì´?ì°ë²ê±°,459.0,1257.0,7.8,5.0,15.0
+534,Burger King,??¼ì£¼?ì´,399.0,570.0,4.6,8.0,17.0
+535,Burger King,ì¹ì¦ë²ê±°,366.0,752.0,5.9,9.0,19.0
+537,Burger King,ì¹ì¦??¼ì£¼?ì´,438.0,771.0,4.8,10.0,19.0
+539,Burger King,ì½°í¸ë¡ì¹ì¦ì??¼ì£¼?ì´,446.0,631.0,3.1,10.0,21.0
+542,Burger King,?µëª¨ì§X,1033.0,1529.0,16.7,20.0,46.0
+544,Burger King,?µëª¨ì§ì??¼ì£¼?ì´,699.0,1013.0,10.4,14.0,30.0
+547,Burger King,?µì?°ì??¼ì£¼?ì´,381.0,522.0,5.0,7.3,21.0
+549,Burger King,?¸ë¬?ë¨¸?¬ë£¸??¼ì£¼?ì´,404.0,554.0,7.2,7.0,16.0
+550,Burger King,?¸ë¬?ë¨¸?¬ë£¸X,776.0,1311.0,14.7,14.0,33.0
+553,Burger King,?¤í?´í¬?¨í° ì¶ê?,309.0,425.0,0.7,11.1,19.0
+554,Burger King,??¼í¨??ì¶ê?,223.0,389.0,0.0,7.0,16.0
+555,Burger King,ë²ê±°?¨í° ì¶ê?,114.0,199.0,0.0,3.7,8.0
+556,Burger King,ì¹ì¦ 1??ì¶ê?,41.0,197.0,0.0,2.2,3.0
+557,Burger King,ë² ì´ì»?2??ì¶ê?,26.0,50.0,0.0,0.7,2.0
+558,Burger King,ë² ì´ì»?4??ì¶ê?,53.0,100.0,0.0,1.5,3.0
+560,Burger King,ê¹ë§ë² ë¥´ì¹ì¦?ì¤[pouch],133.0,280.0,1.2,2.3,1.0
+561,Burger King,?ìë¸ë¡?ì¤[pouch],39.0,293.0,7.4,0.0,0.0
+562,Burger King,ì¼ì°?pouch],11.0,107.0,2.3,0.0,0.0
+563,Burger King,?ëë¨¸ì¤???pouch],32.0,60.0,3.1,0.0,0.0
+564,Burger King,? ë¼?¼ë¨ 2ê°?ì¶ê?,3.0,54.0,0.5,0.0,0.04
+565,Burger King,? ë¼?¼ë¨ 4ê°?ì¶ê?,6.0,108.0,1.0,0.0,0.08
+566,Burger King,21ì¹ì¦?¤í±,155.0,251.0,1.5,3.0,5.0
+567,Burger King,?ê²??(4ì¡°ê°),139.0,289.0,0.4,2.0,6.0
+568,Burger King,?ê²??6ì¡°ê°),210.0,434.0,0.6,3.0,8.0
+569,Burger King,?ê²??10ì¡°ê°),347.0,723.0,1.0,5.0,14.0
+570,Burger King,ë°ì­??2ì¡°ê°),272.0,497.0,1.7,5.0,15.0
+571,Burger King,ë°ì­??4ì¡°ê°),544.0,993.0,3.4,10.0,29.0
+572,Burger King,ë°ì­??8ì¡°ê°),1088.0,1986.0,6.7,20.1,59.0
+573,Burger King,?´ë?¸ë§,332.0,476.0,2.5,3.0,5.0
+575,Burger King,ì½ì¸?¬ë¡,130.0,218.0,13.2,0.9,1.0
+576,Burger King,ì½ì½?ì¬ë¦¼í(3ì¡°ê°),81.0,177.0,1.7,0.9,6.0
+577,Burger King,ì½ì½?ì¬ë¦¼í(6ì¡°ê°),162.0,353.0,3.4,1.7,12.0
+578,Burger King,ì½ì½?ì¬ë¦¼í(9ì¡°ê°),243.0,531.0,5.1,2.6,18.0
+579,Burger King,ì½ì?¬ë,189.0,226.0,5.3,1.0,2.0
+580,Burger King,?¬ë¦¬ë¯¸ëª¨ì§ë³¼(5ì¡°ê°),198.0,124.0,4.0,1.0,7.0
+581,Burger King,?¬ë¦¬ë¯¸ëª¨ì§ë³¼(10ì¡°ê°),395.0,248.0,9.0,1.0,14.0
+582,Burger King,?¸ë¬?í?¼ì´,445.0,496.0,0.3,9.0,10.0
+583,Burger King,?ëì¹í?¼ì´(L),377.0,432.0,0.4,4.0,5.0
+584,Burger King,?ëì¹í?¼ì´(R),285.0,326.0,0.3,3.0,4.0
+586,Burger King,ë¯¸ëë©ì´???¤ë ì§(350ml PET),172.0,11.0,36.0,0.0,0.0
+587,Burger King,?¤í?¼ì´??L),237.0,32.0,60.0,0.0,0.0
+588,Burger King,?¤í?¼ì´??R),165.0,23.0,42.1,0.0,0.0
+592,Burger King,?ë¡?¡í¡ ì²´ë¦¬,0.0,10.0,0.0,0.0,0.0
+593,Burger King,ì½ì¹´ì½ë¼(L),215.0,22.0,55.9,0.0,0.0
+594,Burger King,ì½ì¹´ì½ë¼(R),150.0,15.0,39.1,0.0,0.0
+595,Burger King,ì½ì¹´ì½ë¼ ?ë¡(L),0.0,43.0,0.0,0.0,0.0
+596,Burger King,ì½ì¹´ì½ë¼ ?ë¡(R),0.0,30.0,0.0,0.0,0.0
+598,lotteria,?°ë¦¬ë²ê±°,348.0,590.0,10.0,4.9,12.0
+599,lotteria,ì¹í¨ë²ê±°,355.0,619.0,8.0,3.8,15.0
+600,lotteria,ì¹í¨_ë²ê±°,355.0,619.0,8.0,3.8,15.0
+601,lotteria,T-REXë²ê±°,475.0,874.0,7.0,5.4,26.0
+602,lotteria,ë¦¬ìë¯¸ë¼?´â¡ë²ê±°,352.0,550.0,9.0,4.0,15.0
+603,lotteria,?ë¸ë¦¬ìë¯¸ë¼?´â¡ë²ê±°,520.0,880.0,11.0,7.0,24.0
+604,lotteria,?ì°ë²ê±°,492.0,810.0,7.0,4.7,15.0
+605,lotteria,?ì°_ë²ê±°,492.0,810.0,7.0,4.7,15.0
+606,lotteria,?¬ê°?ì°?ë¸ë²ê±°,556.0,962.0,7.0,5.1,17.0
+607,lotteria,?¬ê°_?ì°?ë¸ë²ê±°,556.0,962.0,7.0,5.1,17.0
+612,lotteria,DoubleX2ë²ê±°,716.0,1070.0,7.0,25.0,25.0
+615,lotteria,?ì° ?µì¤?¸ë¦¼ ?ëª¬?¬ë¦¼,534.0,910.0,12.0,4.1,17.0
+616,lotteria,?ì°_?µì¤?¸ë¦¼ ?ëª¬?¬ë¦¼,534.0,910.0,12.0,4.1,17.0
+619,lotteria,?ë¸ ?°ë¦¬ë²ê±°,446.0,740.0,10.0,7.0,19.0
+620,lotteria,?ë¸ ì¹í¨ë²ê±°,478.0,950.0,11.0,5.0,24.0
+621,lotteria,?ë¸_ì¹í¨ë²ê±°,478.0,950.0,11.0,5.0,24.0
+623,lotteria,ë§ë¼ë¡ëì¹í¨,573.0,1210.0,14.0,6.0,27.0
+624,lotteria,ë§ë¼ë¡ë?ì°,509.0,1100.0,14.0,4.2,13.0
+625,lotteria,ë§ë¼ë¡ë_?ì°,509.0,1100.0,14.0,4.2,13.0
+626,lotteria,ë§ë¼ë¡ëë¹í,661.0,970.0,13.0,16.0,20.0
+627,lotteria,?ëê¹ì¤ë²ê±°,901.0,1570.0,14.0,8.0,35.0
+628,lotteria,ë§¤ì´ ?ëê¹ì¤ë²ê±°,903.0,1580.0,15.0,8.0,35.0
+631,lotteria,?ì°?¸ë¬?ë¨¸?¬ë£¸ë²ê±°,584.0,985.0,18.0,14.7,25.0
+632,lotteria,ë¹ë¶ë²ê±°,761.0,1370.0,12.0,16.0,36.0
+633,lotteria,?´ë?ì¹ì¦ë²ê±?(ë²í°ë²?,492.0,770.0,5.0,14.0,16.0
+635,lotteria,?¬í?´í ,267.0,322.0,0.0,3.2,4.0
+636,lotteria,?¬í?´í (L),389.0,471.0,0.0,4.7,6.0
+637,lotteria,?¨ì??¬í?´í ,242.0,174.0,0.0,0.5,3.0
+638,lotteria,ì¹í¨?ê²,198.0,361.0,0.0,3.3,12.0
+639,lotteria,?ëê°ì(?¤ë??,365.0,544.0,1.0,4.2,5.0
+640,lotteria,?ëê°ì(ì¹ì¦),365.0,544.0,2.0,4.4,5.0
+641,lotteria,?ëê°ì(ì¹ ë¦¬),358.0,584.0,1.0,4.2,5.0
+645,lotteria,ì½ì?¬ë,146.0,190.0,1.0,1.3,2.0
+646,lotteria,ì²?£¼ ë§¤ì´ë§ë 4ì¡°ê°,330.0,420.0,3.0,4.7,10.0
+647,lotteria,ì²?£¼ ë¯¸ì¹ë§ë 4ì¡°ê°,346.0,480.0,3.0,4.9,10.0
+648,lotteria,ì²?£¼ ?ë?ë§ë,338.0,450.0,3.0,4.8,10.0
+649,lotteria,ì²?£¼ ë§¤ì´ë§ë 2ì¡°ê°,165.0,210.0,2.0,2.3,5.0
+650,lotteria,ì²?£¼ ë¯¸ì¹ë§ë 2ì¡°ê°,173.0,240.0,2.0,2.5,5.0
+651,lotteria,ê¹¡ë¼???¼ì??ë¼?´ë,540.0,930.0,15.0,6.0,19.0
+652,lotteria,ê¹¡ë¼???¼ì??ë¼?´ë ì½¤ë³´,667.0,945.0,46.0,6.0,19.0
+656,lotteria,? ë°?¼ì¼?ì¤,33.0,121.0,7.0,0.0,0.0
+657,lotteria,ë¡?°ë¦¬ìë¹ì(ë³´ëX),602.0,150.0,98.0,3.4,9.0
+658,lotteria,ë¡?°ë¦¬ìë¹ì(ë³´ëo),602.0,150.0,98.0,3.4,9.0
+659,lotteria,? ë¤?´í ì´ì½ì¿ í¤,305.0,140.0,31.0,8.0,4.0
+661,lotteria,? ë¤?´ë ?ì¬ì´ì½,313.0,75.0,40.0,8.0,4.0
+662,lotteria,? ë¤?´ë ?ë¸ì´ì½,345.0,145.0,40.0,9.0,5.0
+663,lotteria,ì§?ì´ ê³ ì?ë§(S),422.0,656.0,1.0,6.8,20.0
+664,lotteria,ì§?ì´ ?ë°?¤ë¡(L),566.0,1180.0,0.0,9.8,28.0
+669,lotteria,?¤ì?¸ì¤?¬ì,24.0,53.0,4.0,0.0,0.0
+676,lotteria,?°ë¦¬?¼ë¼?ì¤,70.0,390.0,10.0,0.0,1.0
+679,lotteria,?ë¡???ê¹?¤ì??30G,32.0,200.0,5.0,0.0,0.0
+680,lotteria,?ë¡??ë§¤ì´?ê¹?¤ì??30G,36.0,210.0,7.0,0.0,0.0
+681,lotteria,?ìì¹í¨(?¤ë??,259.0,353.0,2.0,2.5,15.0
+682,lotteria,?ìì¹í¨(ì¹ì¦),259.0,363.0,3.0,2.7,16.0
+683,lotteria,?ìì¹í¨(ì¹ ë¦¬),252.0,393.0,1.0,2.5,15.0
+684,lotteria,ì¹í¨ 1ì¡°ê° ,272.0,694.0,2.0,4.1,18.0
+686,lotteria,ì¹í¨???- ì½ì?¬ë,2590.0,6439.0,15.0,38.3,166.0
+687,lotteria,ì¹í¨???- ?¬í?´í ,2711.0,6571.0,14.0,40.2,168.0
+688,lotteria,ì¹í¨?í??- ì½ì?¬ë,1232.0,2967.0,8.0,17.8,75.0
+689,lotteria,ì¹í¨?í??- ?¬í?´í ,1353.0,3100.0,6.0,19.6,77.0
+690,lotteria,ì¹í¨?¨ë?ë¦¬í©_?¬í?´í ,1714.0,3744.0,6.0,24.0,100.0
+691,lotteria,ì¹í¨?¨ë?ë¦¬í©_ì½ì?¬ë,1594.0,3612.0,8.0,22.1,98.0
+692,lotteria,ì¹í¨? ë 2ì¡°ê°,183.0,370.0,0.0,1.9,15.0
+693,lotteria,ì¹í¨? ë 4ì¡°ê°,366.0,740.0,0.0,3.8,29.0
+694,lotteria,?ì´?´ì2ì¡°ê°,178.0,275.0,0.0,2.5,9.0
+695,lotteria,?ì´?´ì4ì¡°ê°,357.0,549.0,0.0,5.0,17.0
+696,lotteria,?ì´ì¹í¨?í,739.0,1341.0,3.0,13.0,36.0
+698,lotteria,ë¹í?¨í°? í,172.0,155.0,0.0,6.6,7.0
+699,lotteria,ë°ìê³ë? ? í,41.0,204.0,0.1,0.4,4.0
+702,lotteria,?ì´?¸ì¹ì¦?? í,60.0,140.0,0.0,3.0,3.0
+704,lotteria,ì¹ì¦? í,66.0,174.0,0.0,4.0,3.0
+705,lotteria,?ë¸??- ì½ë¼,2073.0,2489.0,154.0,21.9,56.0
+707,lotteria,?¬ê²?í© - ì½ë¼,1977.0,2196.0,164.0,20.1,43.0
+708,lotteria,?¬ê²????ì½ë¼,1977.0,2196.0,164.0,20.1,43.0
+711,lotteria,?¨ë?ë¦¬í© - ì½ë¼,2790.0,3526.0,167.0,36.2,84.0
+713,lotteria,?ë¡?ê±°ì½ë¼,0.0,56.0,0.0,0.0,0.0
+714,lotteria,?ë¡?ê±°ì½ë¼(L),0.0,77.0,0.0,0.0,0.0
+715,lotteria,ì½ë¼,127.0,15.0,31.0,0.0,0.0
+716,lotteria,ì½ë¼(L),173.0,20.0,42.0,0.0,0.0
+718,lotteria,?¬ì´??L),182.0,9.0,42.0,0.0,0.0
+720,lotteria,?ëª¬?ì´??L),217.0,29.0,49.0,0.0,0.0
+721,lotteria,ë¯¸ì«ê°ë£¨ë¼??R,238.0,91.0,29.0,5.7,7.0
+722,lotteria,ë¯¸ì«ê°ë£¨ë¼??L,339.0,131.0,40.0,8.2,11.0
+723,lotteria,ë³µì­?íì°¨ì?´ë R,160.0,10.0,38.0,0.0,0.0
+724,lotteria,ë³µì­?íì°¨ì?´ë L,224.0,10.0,53.0,0.0,0.0
+725,lotteria,?ëì¿¨ì?´ë R,162.0,20.0,36.0,0.1,0.0
+726,lotteria,?ëì¿¨ì?´ë L,226.0,25.0,51.0,0.1,0.0
+727,lotteria,?ì´?¤í°,160.0,0.0,39.0,0.0,0.0
+728,lotteria,?ì´?¤í°(L),232.0,0.0,57.0,0.0,0.0
+732,lotteria,ì¹´í?¼ë¼,206.0,105.0,12.0,5.6,11.0
+733,lotteria,?ì´?¤ìë©ë¦¬ì¹´ë¸,32.0,2.0,0.0,0.5,1.0
+734,lotteria,?ì´?¤ìë©ë¦¬ì¹´ë¸(L),55.0,3.0,0.0,0.8,2.0
+736,McDonalds,Egg McMuffin,300.0,750.0,3.0,13.0,17.0
+737,McDonalds,Egg White Delight,250.0,770.0,3.0,8.0,18.0
+738,McDonalds,Sausage McMuffin,370.0,780.0,2.0,23.0,14.0
+739,McDonalds,Sausage McMuffin with Egg,450.0,860.0,2.0,28.0,21.0
+740,McDonalds,Sausage McMuffin with Egg Whites,400.0,880.0,2.0,23.0,21.0
+741,McDonalds,Steak & Egg McMuffin,430.0,960.0,3.0,23.0,26.0
+742,McDonalds,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",460.0,1300.0,3.0,26.0,19.0
+743,McDonalds,"Bacon, Egg & Cheese Biscuit (Large Biscuit)",520.0,1410.0,4.0,30.0,19.0
+744,McDonalds,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",410.0,1300.0,3.0,20.0,20.0
+745,McDonalds,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",470.0,1420.0,4.0,25.0,20.0
+746,McDonalds,Sausage Biscuit (Regular Biscuit),430.0,1080.0,2.0,27.0,11.0
+747,McDonalds,Sausage Biscuit (Large Biscuit),480.0,1190.0,3.0,31.0,11.0
+748,McDonalds,Sausage Biscuit with Egg (Regular Biscuit),510.0,1170.0,2.0,33.0,18.0
+749,McDonalds,Sausage Biscuit with Egg (Large Biscuit),570.0,1280.0,3.0,37.0,18.0
+750,McDonalds,Sausage Biscuit with Egg Whites (Regular Biscuit),460.0,1180.0,3.0,27.0,18.0
+751,McDonalds,Sausage Biscuit with Egg Whites (Large Biscuit),520.0,1290.0,3.0,32.0,18.0
+752,McDonalds,Southern Style Chicken Biscuit (Regular Biscuit),410.0,1180.0,3.0,20.0,17.0
+753,McDonalds,Southern Style Chicken Biscuit (Large Biscuit),470.0,1290.0,4.0,24.0,17.0
+754,McDonalds,Steak & Egg Biscuit (Regular Biscuit),540.0,1470.0,3.0,32.0,25.0
+755,McDonalds,"Bacon, Egg & Cheese McGriddles",460.0,1250.0,15.0,21.0,19.0
+756,McDonalds,"Bacon, Egg & Cheese McGriddles with Egg Whites",400.0,1250.0,16.0,15.0,20.0
+757,McDonalds,Sausage McGriddles,420.0,1030.0,15.0,22.0,11.0
+758,McDonalds,"Sausage, Egg & Cheese McGriddles",550.0,1320.0,15.0,31.0,20.0
+759,McDonalds,"Sausage, Egg & Cheese McGriddles with Egg Whites",500.0,1320.0,15.0,26.0,21.0
+760,McDonalds,"Bacon, Egg & Cheese Bagel",620.0,1480.0,7.0,31.0,30.0
+761,McDonalds,"Bacon, Egg & Cheese Bagel with Egg Whites",570.0,1480.0,8.0,25.0,30.0
+762,McDonalds,"Steak, Egg & Cheese Bagel",670.0,1510.0,7.0,35.0,33.0
+763,McDonalds,Big Breakfast (Regular Biscuit),740.0,1560.0,3.0,48.0,28.0
+764,McDonalds,Big Breakfast (Large Biscuit),800.0,1680.0,3.0,52.0,28.0
+765,McDonalds,Big Breakfast with Egg Whites (Regular Biscuit),640.0,1590.0,3.0,37.0,26.0
+766,McDonalds,Big Breakfast with Egg Whites (Large Biscuit),690.0,1700.0,4.0,41.0,26.0
+767,McDonalds,Big Breakfast with Hotcakes (Regular Biscuit),1090.0,2150.0,17.0,56.0,36.0
+768,McDonalds,Big Breakfast with Hotcakes (Large Biscuit),1150.0,2260.0,17.0,60.0,36.0
+769,McDonalds,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),990.0,2170.0,17.0,46.0,35.0
+770,McDonalds,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),1050.0,2290.0,18.0,50.0,35.0
+771,McDonalds,Hotcakes,350.0,590.0,14.0,9.0,8.0
+772,McDonalds,Hotcakes and Sausage,520.0,930.0,14.0,24.0,15.0
+773,McDonalds,Sausage Burrito,300.0,790.0,2.0,16.0,12.0
+774,McDonalds,Hash Brown,150.0,310.0,0.0,9.0,1.0
+775,McDonalds,Cinnamon Melts,460.0,370.0,32.0,19.0,6.0
+776,McDonalds,Fruit & Maple Oatmeal,290.0,160.0,32.0,4.0,5.0
+777,McDonalds,Fruit & Maple Oatmeal without Brown Sugar,260.0,115.0,18.0,4.0,5.0
+778,McDonalds,Big Mac,530.0,960.0,9.0,27.0,24.0
+779,McDonalds,Quarter Pounder with Cheese,520.0,1100.0,10.0,26.0,30.0
+780,McDonalds,Quarter Pounder with Bacon & Cheese,600.0,1440.0,12.0,29.0,37.0
+781,McDonalds,Quarter Pounder with Bacon Habanero Ranch,610.0,1180.0,10.0,31.0,37.0
+782,McDonalds,Quarter Pounder Deluxe,540.0,960.0,9.0,27.0,29.0
+783,McDonalds,Double Quarter Pounder with Cheese,750.0,1280.0,10.0,43.0,48.0
+784,McDonalds,Hamburger,240.0,480.0,6.0,8.0,12.0
+785,McDonalds,Cheeseburger,290.0,680.0,7.0,11.0,15.0
+786,McDonalds,Double Cheeseburger,430.0,1040.0,7.0,21.0,24.0
+787,McDonalds,Bacon Clubhouse Burger,720.0,1470.0,14.0,40.0,39.0
+788,McDonalds,McDouble,380.0,840.0,7.0,17.0,22.0
+789,McDonalds,Bacon McDouble,440.0,1110.0,7.0,22.0,27.0
+790,McDonalds,Daily Double,430.0,760.0,7.0,22.0,22.0
+791,McDonalds,JalapeÃ±o Double,430.0,1030.0,6.0,23.0,22.0
+792,McDonalds,McRib,500.0,980.0,11.0,26.0,22.0
+793,McDonalds,Premium Crispy Chicken Classic Sandwich,510.0,990.0,10.0,22.0,24.0
+794,McDonalds,Premium Grilled Chicken Classic Sandwich,350.0,820.0,8.0,9.0,28.0
+795,McDonalds,Premium Crispy Chicken Club Sandwich,670.0,1410.0,11.0,33.0,36.0
+796,McDonalds,Premium Grilled Chicken Club Sandwich,510.0,1250.0,9.0,20.0,40.0
+797,McDonalds,Premium Crispy Chicken Ranch BLT Sandwich,610.0,1400.0,11.0,28.0,32.0
+798,McDonalds,Premium Grilled Chicken Ranch BLT Sandwich,450.0,1230.0,9.0,15.0,36.0
+799,McDonalds,Bacon Clubhouse Crispy Chicken Sandwich,750.0,1720.0,16.0,38.0,36.0
+800,McDonalds,Bacon Clubhouse Grilled Chicken Sandwich,590.0,1560.0,14.0,25.0,40.0
+801,McDonalds,Southern Style Crispy Chicken Sandwich,430.0,910.0,7.0,19.0,21.0
+802,McDonalds,McChicken,360.0,800.0,5.0,16.0,14.0
+803,McDonalds,Bacon Cheddar McChicken,480.0,1260.0,6.0,24.0,22.0
+804,McDonalds,Bacon Buffalo Ranch McChicken,430.0,1260.0,6.0,21.0,20.0
+805,McDonalds,Buffalo Ranch McChicken,360.0,990.0,5.0,16.0,14.0
+806,McDonalds,Premium McWrap Chicken & Bacon (Crispy Chicken),630.0,1540.0,7.0,32.0,32.0
+807,McDonalds,Premium McWrap Chicken & Bacon (Grilled Chicken),480.0,1370.0,6.0,19.0,36.0
+808,McDonalds,Premium McWrap Chicken & Ranch (Crispy Chicken),610.0,1340.0,8.0,31.0,27.0
+809,McDonalds,Premium McWrap Chicken & Ranch (Grilled Chicken),450.0,1170.0,6.0,18.0,30.0
+810,McDonalds,Premium McWrap Southwest Chicken (Crispy Chicken),670.0,1480.0,12.0,33.0,27.0
+811,McDonalds,Premium McWrap Southwest Chicken (Grilled Chicken),520.0,1320.0,10.0,20.0,31.0
+812,McDonalds,Premium McWrap Chicken Sweet Chili (Crispy Chicken),540.0,1260.0,14.0,23.0,23.0
+813,McDonalds,Premium McWrap Chicken Sweet Chili (Grilled Chicken),380.0,1090.0,12.0,10.0,27.0
+814,McDonalds,Chicken McNuggets (4 piece),190.0,360.0,0.0,12.0,9.0
+815,McDonalds,Chicken McNuggets (6 piece),280.0,540.0,0.0,18.0,13.0
+816,McDonalds,Chicken McNuggets (10 piece),470.0,900.0,0.0,30.0,22.0
+817,McDonalds,Chicken McNuggets (20 piece),940.0,1800.0,0.0,59.0,44.0
+818,McDonalds,Chicken McNuggets (40 piece),1880.0,3600.0,1.0,118.0,87.0
+819,McDonalds,Filet-O-Fish,390.0,590.0,5.0,19.0,15.0
+820,McDonalds,Premium Bacon Ranch Salad (without Chicken),140.0,300.0,4.0,7.0,9.0
+821,McDonalds,Premium Bacon Ranch Salad with Crispy Chicken,380.0,860.0,5.0,21.0,25.0
+822,McDonalds,Premium Bacon Ranch Salad with Grilled Chicken,220.0,690.0,4.0,8.0,29.0
+823,McDonalds,Premium Southwest Salad (without Chicken),140.0,150.0,6.0,4.5,6.0
+824,McDonalds,Premium Southwest Salad with Crispy Chicken,450.0,850.0,12.0,22.0,23.0
+825,McDonalds,Premium Southwest Salad with Grilled Chicken,290.0,680.0,10.0,8.0,27.0
+826,McDonalds,Chipotle BBQ Snack Wrap (Crispy Chicken),340.0,780.0,8.0,15.0,14.0
+827,McDonalds,Chipotle BBQ Snack Wrap (Grilled Chicken),260.0,700.0,7.0,8.0,16.0
+828,McDonalds,Honey Mustard Snack Wrap (Crispy Chicken),330.0,730.0,3.0,15.0,14.0
+829,McDonalds,Honey Mustard Snack Wrap (Grilled Chicken),250.0,650.0,2.0,8.0,16.0
+830,McDonalds,Ranch Snack Wrap (Crispy Chicken),360.0,810.0,3.0,20.0,15.0
+831,McDonalds,Ranch Snack Wrap (Grilled Chicken),280.0,720.0,2.0,13.0,16.0
+832,McDonalds,Small French Fries,230.0,130.0,0.0,11.0,2.0
+833,McDonalds,Medium French Fries,340.0,190.0,0.0,16.0,4.0
+834,McDonalds,Large French Fries,510.0,290.0,0.0,24.0,6.0
+835,McDonalds,Kids French Fries,110.0,65.0,0.0,5.0,1.0
+836,McDonalds,Side Salad,20.0,10.0,2.0,0.0,1.0
+837,McDonalds,Apple Slices,15.0,0.0,3.0,0.0,0.0
+838,McDonalds,Fruit 'n Yogurt Parfait,150.0,70.0,23.0,2.0,4.0
+839,McDonalds,Baked Apple Pie,250.0,170.0,13.0,13.0,2.0
+840,McDonalds,Chocolate Chip Cookie,160.0,90.0,15.0,8.0,2.0
+841,McDonalds,Oatmeal Raisin Cookie,150.0,135.0,13.0,6.0,2.0
+842,McDonalds,Kids Ice Cream Cone,45.0,20.0,6.0,1.5,1.0
+843,McDonalds,Hot Fudge Sundae,330.0,170.0,48.0,9.0,8.0
+844,McDonalds,Hot Caramel Sundae,340.0,150.0,43.0,8.0,7.0
+845,McDonalds,Strawberry Sundae,280.0,85.0,45.0,6.0,6.0
+846,McDonalds,Coca-Cola Classic (Small),140.0,0.0,39.0,0.0,0.0
+847,McDonalds,Coca-Cola Classic (Medium),200.0,5.0,55.0,0.0,0.0
+848,McDonalds,Coca-Cola Classic (Large),280.0,5.0,76.0,0.0,0.0
+849,McDonalds,Coca-Cola Classic (Child),100.0,0.0,28.0,0.0,0.0
+850,McDonalds,Diet Coke (Small),0.0,10.0,0.0,0.0,0.0
+851,McDonalds,Diet Coke (Medium),0.0,20.0,0.0,0.0,0.0
+852,McDonalds,Diet Coke (Large),0.0,35.0,0.0,0.0,0.0
+853,McDonalds,Diet Coke (Child),0.0,15.0,0.0,0.0,0.0
+854,McDonalds,Dr Pepper (Small),140.0,45.0,35.0,0.0,0.0
+855,McDonalds,Dr Pepper (Medium),190.0,65.0,51.0,0.0,0.0
+856,McDonalds,Dr Pepper (Large),270.0,90.0,70.0,0.0,0.0
+857,McDonalds,Dr Pepper (Child),100.0,30.0,26.0,0.0,0.0
+858,McDonalds,Diet Dr Pepper (Small),0.0,70.0,0.0,0.0,2.0
+859,McDonalds,Diet Dr Pepper (Medium),0.0,100.0,0.0,0.0,3.0
+860,McDonalds,Diet Dr Pepper (Large),0.0,140.0,0.0,0.0,4.0
+861,McDonalds,Diet Dr Pepper (Child),0.0,50.0,0.0,0.0,1.0
+862,McDonalds,Sprite (Small),140.0,30.0,37.0,0.0,0.0
+863,McDonalds,Sprite (Medium),200.0,45.0,54.0,0.0,0.0
+864,McDonalds,Sprite (Large),280.0,60.0,74.0,0.0,0.0
+865,McDonalds,Sprite (Child),100.0,25.0,27.0,0.0,0.0
+866,McDonalds,1% Low Fat Milk Jug,100.0,125.0,12.0,2.5,8.0
+867,McDonalds,Fat Free Chocolate Milk Jug,130.0,135.0,22.0,0.0,9.0
+868,McDonalds,Minute Maid 100% Apple Juice Box,80.0,15.0,19.0,0.0,0.0
+869,McDonalds,Minute Maid Orange Juice (Small),150.0,0.0,30.0,0.0,2.0
+870,McDonalds,Minute Maid Orange Juice (Medium),190.0,0.0,39.0,0.0,3.0
+871,McDonalds,Minute Maid Orange Juice (Large),280.0,5.0,58.0,0.0,4.0
+872,McDonalds,Dasani Water Bottle,0.0,0.0,0.0,0.0,0.0
+873,McDonalds,Iced Tea (Small),0.0,10.0,0.0,0.0,0.0
+874,McDonalds,Iced Tea (Medium),0.0,10.0,0.0,0.0,0.0
+875,McDonalds,Iced Tea (Large),0.0,15.0,0.0,0.0,0.0
+876,McDonalds,Iced Tea (Child),0.0,5.0,0.0,0.0,0.0
+877,McDonalds,Sweet Tea (Small),150.0,10.0,36.0,0.0,1.0
+878,McDonalds,Sweet Tea (Medium),180.0,10.0,45.0,0.0,1.0
+879,McDonalds,Sweet Tea (Large),220.0,10.0,54.0,0.0,1.0
+880,McDonalds,Sweet Tea (Child),110.0,5.0,27.0,0.0,0.0
+881,McDonalds,Coffee (Small),0.0,0.0,0.0,0.0,0.0
+882,McDonalds,Coffee (Medium),0.0,0.0,0.0,0.0,0.0
+883,McDonalds,Coffee (Large),0.0,0.0,0.0,0.0,0.0
+884,McDonalds,Latte (Small),170.0,115.0,12.0,9.0,9.0
+885,McDonalds,Latte (Medium),210.0,140.0,15.0,10.0,11.0
+886,McDonalds,Latte (Large),280.0,180.0,20.0,14.0,15.0
+887,McDonalds,Caramel Latte (Small),270.0,115.0,38.0,9.0,9.0
+888,McDonalds,Caramel Latte (Medium),340.0,140.0,48.0,10.0,11.0
+889,McDonalds,Caramel Latte (Large),430.0,180.0,59.0,14.0,15.0
+890,McDonalds,Hazelnut Latte (Small),270.0,115.0,38.0,9.0,9.0
+891,McDonalds,Hazelnut Latte (Medium),330.0,140.0,47.0,10.0,11.0
+892,McDonalds,Hazelnut Latte (Large),430.0,180.0,58.0,14.0,15.0
+893,McDonalds,French Vanilla Latte (Small),260.0,115.0,36.0,9.0,9.0
+894,McDonalds,French Vanilla Latte (Medium),330.0,140.0,45.0,10.0,11.0
+895,McDonalds,French Vanilla Latte (Large),420.0,190.0,56.0,14.0,15.0
+896,McDonalds,Latte with Sugar Free French Vanilla Syrup (Small),210.0,150.0,12.0,9.0,9.0
+897,McDonalds,Latte with Sugar Free French Vanilla Syrup (Medium),260.0,190.0,15.0,10.0,12.0
+898,McDonalds,Latte with Sugar Free French Vanilla Syrup (Large),330.0,240.0,20.0,14.0,15.0
+899,McDonalds,Nonfat Latte (Small),100.0,110.0,13.0,0.0,10.0
+900,McDonalds,Nonfat Latte (Medium),130.0,135.0,16.0,0.0,12.0
+901,McDonalds,Nonfat Latte (Large),170.0,180.0,21.0,0.5,16.0
+902,McDonalds,Nonfat Caramel Latte (Small),200.0,110.0,39.0,0.0,10.0
+903,McDonalds,Nonfat Caramel Latte (Medium),250.0,135.0,48.0,0.0,12.0
+904,McDonalds,Nonfat Caramel Latte (Large),310.0,180.0,59.0,0.5,16.0
+905,McDonalds,Nonfat Hazelnut Latte (Small),200.0,110.0,38.0,0.0,10.0
+906,McDonalds,Nonfat Hazelnut Latte (Medium),250.0,135.0,48.0,0.0,12.0
+907,McDonalds,Nonfat Hazelnut Latte (Large),310.0,180.0,59.0,0.5,16.0
+908,McDonalds,Nonfat French Vanilla Latte (Small),190.0,115.0,37.0,0.0,10.0
+909,McDonalds,Nonfat French Vanilla Latte (Medium),240.0,140.0,46.0,0.0,12.0
+910,McDonalds,Nonfat French Vanilla Latte (Large),300.0,180.0,56.0,0.5,16.0
+911,McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Small),140.0,150.0,13.0,0.0,10.0
+912,McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),170.0,180.0,16.0,0.0,12.0
+913,McDonalds,Nonfat Latte with Sugar Free French Vanilla Syrup (Large),220.0,240.0,21.0,0.5,16.0
+914,McDonalds,Mocha (Small),340.0,150.0,42.0,11.0,10.0
+915,McDonalds,Mocha (Medium),410.0,190.0,53.0,14.0,13.0
+916,McDonalds,Mocha (Large),500.0,240.0,63.0,17.0,16.0
+917,McDonalds,Mocha with Nonfat Milk (Small),270.0,150.0,43.0,3.5,11.0
+918,McDonalds,Mocha with Nonfat Milk (Medium),330.0,190.0,53.0,3.5,13.0
+919,McDonalds,Mocha with Nonfat Milk (Large),390.0,240.0,64.0,4.0,17.0
+920,McDonalds,Caramel Mocha (Small),320.0,170.0,40.0,11.0,10.0
+921,McDonalds,Caramel Mocha (Medium),390.0,220.0,50.0,14.0,12.0
+922,McDonalds,Caramel Mocha (Large),480.0,270.0,60.0,17.0,16.0
+923,McDonalds,Nonfat Caramel Mocha (Small),250.0,170.0,41.0,3.5,10.0
+924,McDonalds,Nonfat Caramel Mocha (Medium),310.0,210.0,51.0,3.5,13.0
+925,McDonalds,Nonfat Caramel Mocha (Large),370.0,270.0,61.0,3.5,17.0
+926,McDonalds,Hot Chocolate (Small),360.0,180.0,45.0,13.0,11.0
+927,McDonalds,Hot Chocolate (Medium),440.0,220.0,56.0,16.0,14.0
+928,McDonalds,Hot Chocolate (Large),540.0,280.0,68.0,20.0,17.0
+929,McDonalds,Hot Chocolate with Nonfat Milk (Small),280.0,180.0,46.0,3.5,12.0
+930,McDonalds,Hot Chocolate with Nonfat Milk (Medium),340.0,220.0,57.0,3.5,14.0
+931,McDonalds,Hot Chocolate with Nonfat Milk (Large),400.0,280.0,69.0,3.5,19.0
+932,McDonalds,Regular Iced Coffee (Small),140.0,35.0,22.0,4.5,1.0
+933,McDonalds,Regular Iced Coffee (Medium),190.0,50.0,30.0,7.0,1.0
+934,McDonalds,Regular Iced Coffee (Large),270.0,75.0,45.0,9.0,2.0
+935,McDonalds,Caramel Iced Coffee (Small),130.0,35.0,21.0,4.5,1.0
+936,McDonalds,Caramel Iced Coffee (Medium),180.0,50.0,28.0,7.0,1.0
+937,McDonalds,Caramel Iced Coffee (Large),260.0,65.0,42.0,9.0,2.0
+938,McDonalds,Hazelnut Iced Coffee (Small),130.0,35.0,20.0,4.5,1.0
+939,McDonalds,Hazelnut Iced Coffee (Medium),180.0,50.0,28.0,7.0,1.0
+940,McDonalds,Hazelnut Iced Coffee (Large),250.0,75.0,41.0,9.0,2.0
+941,McDonalds,French Vanilla Iced Coffee (Small),120.0,40.0,19.0,4.5,1.0
+942,McDonalds,French Vanilla Iced Coffee (Medium),170.0,55.0,26.0,7.0,1.0
+943,McDonalds,French Vanilla Iced Coffee (Large),240.0,80.0,39.0,9.0,2.0
+944,McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Small),80.0,65.0,1.0,4.5,1.0
+945,McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Medium),120.0,90.0,2.0,7.0,1.0
+946,McDonalds,Iced Coffee with Sugar Free French Vanilla Syrup (Large),160.0,135.0,2.0,9.0,2.0
+947,McDonalds,Iced Mocha (Small),290.0,125.0,34.0,11.0,8.0
+948,McDonalds,Iced Mocha (Medium),350.0,150.0,43.0,13.0,9.0
+949,McDonalds,Iced Mocha (Large),480.0,220.0,62.0,16.0,14.0
+950,McDonalds,Iced Mocha with Nonfat Milk (Small),240.0,125.0,35.0,5.0,8.0
+951,McDonalds,Iced Mocha with Nonfat Milk (Medium),290.0,150.0,43.0,5.0,10.0
+952,McDonalds,Iced Mocha with Nonfat Milk (Large),390.0,220.0,62.0,6.0,14.0
+953,McDonalds,Iced Caramel Mocha (Small),280.0,140.0,33.0,11.0,8.0
+954,McDonalds,Iced Caramel Mocha (Medium),340.0,170.0,41.0,13.0,9.0
+955,McDonalds,Iced Caramel Mocha (Large),460.0,250.0,59.0,16.0,13.0
+956,McDonalds,Iced Nonfat Caramel Mocha (Small),230.0,140.0,33.0,5.0,8.0
+957,McDonalds,Iced Nonfat Caramel Mocha (Medium),270.0,170.0,41.0,5.0,10.0
+958,McDonalds,Iced Nonfat Caramel Mocha (Large),370.0,250.0,59.0,6.0,14.0
+959,McDonalds,FrappÃ© Mocha (Small),450.0,125.0,57.0,18.0,7.0
+960,McDonalds,FrappÃ© Mocha (Medium),550.0,160.0,71.0,22.0,9.0
+961,McDonalds,FrappÃ© Mocha (Large),670.0,190.0,88.0,26.0,11.0
+962,McDonalds,FrappÃ© Caramel (Small),450.0,125.0,57.0,19.0,7.0
+963,McDonalds,FrappÃ© Caramel (Medium),550.0,160.0,71.0,23.0,9.0
+964,McDonalds,FrappÃ© Caramel (Large),670.0,190.0,88.0,27.0,11.0
+965,McDonalds,FrappÃ© Chocolate Chip (Small),530.0,135.0,67.0,23.0,8.0
+966,McDonalds,FrappÃ© Chocolate Chip (Medium),630.0,160.0,81.0,26.0,9.0
+967,McDonalds,FrappÃ© Chocolate Chip (Large),760.0,200.0,99.0,31.0,12.0
+968,McDonalds,Blueberry Pomegranate Smoothie (Small),220.0,40.0,44.0,0.5,2.0
+969,McDonalds,Blueberry Pomegranate Smoothie (Medium),260.0,50.0,54.0,1.0,3.0
+970,McDonalds,Blueberry Pomegranate Smoothie (Large),340.0,65.0,70.0,1.0,4.0
+971,McDonalds,Strawberry Banana Smoothie (Small),210.0,50.0,44.0,0.5,3.0
+972,McDonalds,Strawberry Banana Smoothie (Medium),250.0,60.0,54.0,1.0,4.0
+973,McDonalds,Strawberry Banana Smoothie (Large),330.0,80.0,70.0,1.0,5.0
+974,McDonalds,Mango Pineapple Smoothie (Small),210.0,40.0,46.0,0.5,2.0
+975,McDonalds,Mango Pineapple Smoothie (Medium),260.0,45.0,56.0,1.0,3.0
+976,McDonalds,Mango Pineapple Smoothie (Large),340.0,60.0,72.0,1.0,4.0
+977,McDonalds,Vanilla Shake (Small),530.0,160.0,63.0,15.0,11.0
+978,McDonalds,Vanilla Shake (Medium),660.0,200.0,81.0,19.0,14.0
+979,McDonalds,Vanilla Shake (Large),820.0,260.0,101.0,23.0,18.0
+980,McDonalds,Strawberry Shake (Small),550.0,160.0,79.0,16.0,12.0
+981,McDonalds,Strawberry Shake (Medium),690.0,210.0,100.0,20.0,15.0
+982,McDonalds,Strawberry Shake (Large),850.0,260.0,123.0,24.0,18.0
+983,McDonalds,Chocolate Shake (Small),560.0,240.0,77.0,16.0,12.0
+984,McDonalds,Chocolate Shake (Medium),700.0,300.0,97.0,20.0,15.0
+985,McDonalds,Chocolate Shake (Large),850.0,380.0,120.0,23.0,19.0
+986,McDonalds,Shamrock Shake (Medium),660.0,210.0,93.0,19.0,14.0
+987,McDonalds,Shamrock Shake (Large),820.0,260.0,115.0,23.0,18.0
+988,McDonalds,McFlurry with M&M?s Candies (Small),650.0,180.0,89.0,23.0,13.0
+989,McDonalds,McFlurry with M&M?s Candies (Medium),930.0,260.0,128.0,33.0,20.0
+990,McDonalds,McFlurry with M&M?s Candies (Snack),430.0,120.0,59.0,15.0,9.0
+991,McDonalds,McFlurry with Oreo Cookies (Small),510.0,280.0,64.0,17.0,12.0
+992,McDonalds,McFlurry with Oreo Cookies (Medium),690.0,380.0,85.0,23.0,15.0
+993,McDonalds,McFlurry with Oreo Cookies (Snack),340.0,190.0,43.0,11.0,8.0
+994,McDonalds,McFlurry with Reese's Peanut Butter Cups (Medium),810.0,400.0,103.0,32.0,21.0
+995,McDonalds,McFlurry with Reese's Peanut Butter Cups (Snack),410.0,200.0,51.0,16.0,10.0
+996,no_brand_burger,NBB?´ë©?´ì§,725.0,1433.0,9.0,15.0,32.0
+997,no_brand_burger,NBB?ê·¸?ì²,531.0,1138.0,9.0,9.0,21.0
+1001,no_brand_burger,ê·¸ë¦´?ë¶ê³ ê¸°,426.0,699.0,12.0,5.0,16.0
+1005,no_brand_burger,?¤ë¦¬?¼ì°¨ì¹í¨,520.0,1126.0,18.0,5.0,25.0
+1006,no_brand_burger,ì½ì¸?¬ë¡ì¹í¨,556.0,1325.0,13.0,6.0,24.0
+1008,no_brand_burger,?¬ë¨¸ì¹ë² ?´ì»¨,613.0,1868.0,9.0,10.0,34.0
+1009,no_brand_burger,ì°¨í?í«ì¹í¨,459.0,1147.0,11.0,4.0,18.0
+1010,no_brand_burger,ë³¼ë¡?¤ì ë¯¸í¸,490.0,1352.0,9.0,7.0,27.0
+1011,no_brand_burger,ê°ì?ê¹ M,209.0,281.0,1.0,2.0,3.0
+1012,no_brand_burger,ê°ì?ê¹ L,313.0,422.0,1.0,2.0,5.0
+1013,no_brand_burger,?´ë???ë,348.0,536.0,4.0,2.0,4.0
+1014,no_brand_burger,NBBì¹í¨?ê² 3ì¡°ê°,134.0,397.0,1.0,1.0,10.0
+1015,no_brand_burger,NBBì¹í¨?ê² 5ì¡°ê°,223.0,662.0,2.0,1.0,17.0
+1017,no_brand_burger,?¬ë°ì¹???2ì¡°ê°,187.0,432.0,0.0,2.0,13.0
+1018,no_brand_burger,?¬ë°ì¹???4ì¡°ê°,373.0,865.0,1.0,4.0,26.0
+1021,no_brand_burger,?¬ë¦¬?¤í¼ ?í?´í¬??S,368.0,460.0,0.0,5.0,13.0
+1022,no_brand_burger,?¬ë¦¬?¤í¼ ?í?´í¬??L,1473.0,1840.0,1.0,19.0,51.0
+1023,no_brand_burger,?í¼ë¡ë ì¹ìë°í?,540.0,1220.0,5.0,10.0,22.0
+1024,no_brand_burger,ë² ë¬ë²ê±°,440.0,1062.0,7.0,6.0,13.0
+1029,no_brand_burger,ê·¸ë¦°?ë¬??ë¯¸ë,73.0,281.0,5.0,1.0,1.0
+1031,no_brand_burger,?ë©ë¦¬ì¹¸ ì¹ì¦,45.0,220.0,1.0,2.0,2.0
+1032,no_brand_burger,?¤ì??ì¹ì¦,42.0,175.0,0.0,2.0,4.0
+1034,no_brand_burger,ì¼ì²?1?ì©),11.0,106.0,3.0,0.0,0.0
+1035,no_brand_burger,?ëë¨¸ì¤??ì??1?ì©),34.0,78.0,3.0,0.0,0.0
+1036,no_brand_burger,?¤ì?¤í?´ì ?ì¤,42.0,133.0,9.0,0.0,0.0
+1037,no_brand_burger,?ì¹?ì¤,130.0,289.0,3.0,2.0,1.0
+1038,no_brand_burger,?©ìì½ë¼,129.0,9.0,31.0,0.0,0.0
+1041,no_brand_burger,?©ì?ë¡?ê?(?¼ì??,0.0,49.0,0.0,0.0,0.0
+1043,no_brand_burger,?¤ë ì§ì¥¬ì¤,139.0,17.0,35.0,0.0,0.0
+1045,no_brand_burger,?ì´?¤ìë©ë¦¬ì¹´ë¸,17.0,3.0,0.0,0.0,1.0
+1047,no_brand_burger,ë¸ë?ì¬?´ë¤,152.0,5.0,38.0,0.0,0.0
+1048,no_brand_burger,ë¸ë?ì½???ë¡,0.0,25.0,0.0,0.0,0.0
+1049,no_brand_burger,ë¸ë?ì¬?´ë¤ ?ë¡,0.0,5.0,0.0,0.0,0.0
+1050,no_brand_burger,?¤ë ì§ì£¼ì¤(PET),132.0,95.0,26.0,0.0,2.0
+1051,prank_burger,?ë­?¬ë²ê±?R),364.18,6.69,16.02,8.47,464.53
+1052,prank_burger,ì¹ì¦ë²ê±°(R),371.28,4.29,16.22,8.76,559.05
+1053,prank_burger,ë² ì´ì»¨ì¹ì¦ë²ê±?R),515.78,7.85,32.03,13.97,962.69
+1054,prank_burger,?ë¸ì¹ì¦ë²ê±°(R),626.82,2.87,32.11,19.52,855.9
+1055,prank_burger,?¬ë¦¼?ë²ê±?R),413.97,6.29,11.9,6.33,667.93
+1056,prank_burger,ë¨¸ì¬ë£¸ë²ê±?R),465.86,9.2,19.08,11.56,939.98
+1057,prank_burger,JGë²ê±°(R),598.1,4.18,35.42,15.2,1272.98
+1058,prank_burger,SGë¶ê³ ê¸°ë²ê±?R),353.31,8.21,16.25,6.97,445.3
+1059,prank_burger,SG?¬ë¦¼ì¹ì¦ë²ê±°(R),428.53,5.43,23.41,11.02,877.56
+1060,prank_burger,?ë­?¬ë²ê±?L),453.41,7.54,20.04,10.83,563.66
+1061,prank_burger,ì¹ì¦ë²ê±°(L),483.39,5.27,20.04,11.16,718.45
+1062,prank_burger,ë² ì´ì»¨ì¹ì¦ë²ê±?L),642.43,10.08,32.03,16.8,1148.6
+1063,prank_burger,?ë¸ì¹ì¦ë²ê±°(L),687.04,4.55,33.45,19.51,1149.6
+1064,prank_burger,ë¨¸ì¬ë£¸ë²ê±?L),665.3,13.58,26.75,18.1,1203.43
+1065,prank_burger,JGë²ê±°(L),828.28,6.42,48.23,22.28,1574.77
+1066,prank_burger,SGë¶ê³ ê¸°ë²ê±?L),491.06,13.84,17.24,10.6,606.15
+1067,prank_burger,SG?¬ë¦¼ì¹ì¦ë²ê±°(L),613.32,8.45,28.27,18.3,972.04
