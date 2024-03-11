@@ -106,8 +106,9 @@
   
 ## (2) 데이터 파악 및 전처리
   
+- data : restrant, item, sodium, sugar, total_fat, portein, caloriest
 - target : caloriest
-- feature : restrant, item, sodium, sugar, total_fat, portein
+- feature : item, sodium, sugar, total_fat, portein
 - restrant는 순서가 없는 범주형 데이터 -> OneHotEncoding 실시
   - 같은 브랜드지만 다른 이름인 데이터가 있길래 통일
   - targer과 상관계수 파악 -> 큰 상관관계 파악 X -> 무시 
