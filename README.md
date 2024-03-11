@@ -242,7 +242,7 @@
 
 <details>
   <summary>
-    박희진(앙상블 - 배깅(RandomForest) / 보팅(Voting)
+    박희진(앙상블 - 배깅(RandomForest) / 보팅(Voting) )
   </summary>
   
 ## (1) 모델 선정 이유
