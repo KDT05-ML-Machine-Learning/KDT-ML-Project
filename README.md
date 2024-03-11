@@ -161,7 +161,7 @@
 
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/b8271ef0-88d3-4e0d-b8e2-432e449c059f)  
             
-<img width="167" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/39c226e7-6d58-4c61-8c73-1bd63b4027d4">
+<img  width="300" height="300" alt="image" src="https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/39c226e7-6d58-4c61-8c73-1bd63b4027d4">{: .align-center}
 
 </aside>
   
