@@ -90,7 +90,8 @@
     이승민(KNR(K-최근접 이웃 회귀), LR(선형 회귀))
   </summary>
   
-K-Nearest Neighbors Regression  
+K-Nearest Neighbors Regression
+
   **1. 데이터 전처리 실시**  
   - 필요한 부분으로 데이터를 분할해서 저장
   - 이상치도 필요한 내용을 담고 있어 제거하지 않음  
@@ -106,7 +107,8 @@ K-Nearest Neighbors Regression
   **5. 모델 저장(.pkl 형식)**    
   - 둘 중 성능이 좋은 '튜닝2' 모델을 최종 모델로 저장
 
-Linear Regression  
+Linear Regression
+
   **1. 데이터 전처리 실시**   
   - 필요한 부분으로 데이터를 분할해서 저장
   - 이상치로 필요한 내용을 담고 있어 제거하지 않음  
