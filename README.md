@@ -252,26 +252,27 @@
   
 ## (2) 데이터 파악 및 전처리
   
-- data : restrant, item, sodium, sugar, total_fat, portein, caloriest
-- target : caloriest
+- data : restrant, item, sodium, sugar, total_fat, portein, calories
+- target : calories
 - feature : item, sodium, sugar, total_fat, portein
 - restrant는 순서가 없는 범주형 데이터 -> OneHotEncoding 실시
   - 같은 브랜드지만 다른 이름인 데이터가 있길래 통일
   - targer과 상관계수 파악 -> 큰 상관관계 파악 X -> 무시 
 - 결측치 제거
-    - 대체했을 때, 데이터가 왜곡될까봐 대체하지 않고 제거함.
+    - 대체했을 때, 데이터가 왜곡될까봐 대체하지 않고 제거
 - 중복치 제거
 - 이상치 확인
   ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/07ef4a97-16b8-4759-a0f9-54c9aa671ba9)
     - 이상치가 매우 많이 확인 되었으나 잘못 입력된 데이터가 아니라는 판단하에 제거하지 않고 진행
-    - 이상치에 영향을 덜 받는 MinMaxScaler나 RobustScaler 사용하는 것이 좋겠다.
+    - 이상치에 영향을 덜 받는 MinMaxScaler나 RobustScaler 사용하는 것이 좋겠다고 판단
 - feature data를 산점도 찍어 봤을때, 선형 또는 묘하게 2차 곡선을 띰
   ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/253fb431-be29-4f03-9d4a-e1ad6310f1fc)
   - feature들끼리 상관관계 있는지 파악
     - total_fat과 sodium 상관관계 높음
     - total_fat과 sodium feature만 poly 진행하여 모델 학습해봤으나 과대적합되어 기각
 - MinMaxScaler 적용하여 스케일링
-  - 세 방법중에 MAE와 RMSE가 제일 낮은 Scaler 선택
+  - MAE와 RMSE가 제일 낮은 Scaler인 MinMaxScaler 선택
+  - 이상치에도 둔감하기 때문에 알맞다고 생각됨
 - train_test_split 메서드의 최적의 random_state 값 찾기
 - RandomForest 메서드의 최적의 random_state 값 찾기
   
@@ -286,7 +287,7 @@
   - 과대적합을 방지하기 위해 교차검증 진행
     - GridSearchCV를 통해 최적의 모델 산출
 ** 과대 적합 해결! ** 
-- 튜닝 후 : train_score : 0.96 / test_score : 0.95
+- 튜닝 후 : train_score : 0.96 / test_score : 0.95 -> 최적적합
   
 <aside>
 💡 최적의 모델  
@@ -320,11 +321,13 @@
   
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/6512e391-14f7-476c-affc-19b7ffad4cf1)
 ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/d43885dc-5429-4488-b2e4-991833ecc75d)
-- boost model이 score가 가장 높고, 최적적합에다, 새로운 데이터를 넣었을때도 MAE와 RMSE값이 낮다.  
+- 해당 데이터에서는 boosting model이 가장 적합하다.
+   - boost model이 score가 가장 높고, 최적적합에다, 새로운 데이터를 넣었을때도 MAE와 RMSE값이 낮다.  
   
 ## (6) 활용
 - 칼로리 예측을 기반한 햄버거 추천 프로그램  
-  
+  ![image](https://github.com/ParkHeeJin00/KDT-5_MLProject/assets/155441547/4c6f859f-55fd-4f0d-8af8-2aef2d259ee2)
+
 ## (7) 피드백  
   
 - 이상치가 많은 feature data에서 MinMaxScaler를 잘 사용하였다.
