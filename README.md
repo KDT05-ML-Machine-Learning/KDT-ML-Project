@@ -89,6 +89,7 @@
   <summary>
     이승민(KNR(K-최근접 이웃 회귀), LR(선형 회귀))
   </summary>
+  
 K-Nearest Neighbors Regression
   1. 데이터 전처리 실시
   - 필요한 부분으로 데이터를 분할해서 저장
