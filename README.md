@@ -190,8 +190,9 @@
 
 <details>
   <summary>
-    박희진(소주제)
+    박희진(앙상블 - 배깅(RandomForest) / 보팅(Voting)
   </summary>
 
 </details>
+dsjfsjdfds
 <hr/>
