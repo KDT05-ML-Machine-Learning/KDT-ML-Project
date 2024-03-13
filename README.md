@@ -257,7 +257,7 @@
 - feature : item, sodium, sugar, total_fat, portein
 - restrant는 순서가 없는 범주형 데이터 -> OneHotEncoding 실시
   - 같은 브랜드지만 다른 이름인 데이터가 있길래 통일
-  - targer과 상관계수 파악 -> 큰 상관관계 파악 X -> 무시 
+  - target과 상관계수 파악 -> 큰 상관관계 파악 X -> 무시 
 - 결측치 제거
     - 대체했을 때, 데이터가 왜곡될까봐 대체하지 않고 제거함.
 - 중복치 제거
@@ -331,5 +331,5 @@
   - 이상치 제거를 안해도 MinMaxScaler로도 어느정도 이상치 정리가 된다.  
 
 </details>
-dsjfsjdfds
+
 <hr/>
